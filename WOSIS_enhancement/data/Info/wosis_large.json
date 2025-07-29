@@ -1,0 +1,45 @@
+{
+    "name": "wosis_large",
+    "task_type": "regression",
+    "header": "infer",
+    "column_names": [
+        "X",
+        "Y",
+        "upper_depth",
+        "lower_depth",
+        "value_avg",
+        "dataset_id",
+        "region",
+        "continent",
+        "date"
+    ],
+    "num_col_idx": [
+        0,
+        1,
+        2,
+        3
+    ],
+    "cat_col_idx": [
+        5,
+        6,
+        7,
+        8
+    ],
+    "target_col_idx": [
+        4
+    ],
+    "file_type": "csv",
+    "data_path": "data/wosis_large/wosis_large.csv",
+    "test_path": "data/wosis_large/wosis_large_test.csv",
+    "column_info": {
+        "X": "float",
+        "Y": "float",
+        "upper_depth": "float",
+        "lower_depth": "float",
+        "value_avg": "float",
+        "dataset_id": "str",
+        "region": "str",
+        "continent": "str",
+        "date": "str"
+    }
+}

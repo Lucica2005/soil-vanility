@@ -1,0 +1,2267 @@
+X,Y,upper_depth,lower_depth,value_avg,dataset_id,region,continent,date
+-103.8208333,48.4169444,20.0,28.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-107.6497661,30.04152299,18.0,37.0,3.0,MX-INEGI,Central America,Northern America,Unknown
+-110.7041702,31.7272224,13.0,25.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-92.03937603,16.66315704,19.0,34.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-107.8886795,38.6225201,22.0,46.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+133.2466236,-31.90322509,10.0,30.0,0.7,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-98.1912391,19.72078009,23.0,62.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-117.081927,32.43657746,0.0,50.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-110.2510792,27.42143934,0.0,25.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-112.4655831,31.1824121,0.0,24.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-118.1916667,39.5416667,18.0,38.0,14.0,US-NCSS,Northern America,Northern America,Unknown
+-105.101387,44.2844429,10.0,41.0,15.7,US-NCSS,Northern America,Northern America,Unknown
+-103.6466675,29.7227783,23.0,56.0,2.6,US-NCSS,Northern America,Northern America,Unknown
+-110.7734679,27.92812526,0.0,24.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-97.77648426,19.3755805,0.0,34.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-119.7399979,38.8738899,20.0,28.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+140.1247882,-35.78226365,15.0,30.0,0.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-99.09734344,41.39944077,25.0,41.0,13.6,US-NCSS,Northern America,Northern America,Unknown
+-94.8892667,29.9267778,20.0,64.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-109.1980142,26.68127089,20.0,45.0,0.4,MX-INEGI,Central America,Northern America,Unknown
+-107.8895583,29.60024055,20.0,39.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-97.5870972,31.8552475,16.0,48.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-102.405822,45.9627385,23.0,33.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-99.4402771,37.0902786,0.0,20.0,13.2,US-NCSS,Northern America,Northern America,Unknown
+81.61888123,29.2868309,0.0,70.0,0.2,NP-SOTER,Southern Asia,Asia,Unknown
+-92.5178223,30.1175842,0.0,23.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-76.0,-2.779999971,10.0,25.0,0.2,LAC-SOTER,South America,South America,Unknown
+146.18268,-22.63455876,10.0,40.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-111.187612,25.32588787,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.676375,23.39959468,19.0,35.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-112.0002747,39.1722221,5.0,30.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-103.1097222,48.9969444,15.0,23.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+41.5,46.5,0.0,30.0,1.8,EU-SOTER,Eastern Europe,Europe,Unknown
+-103.6568069,44.7796936,10.0,20.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-57.75,-33.66666667,16.0,46.0,0.1,WD-WISE,South America,South America,Unknown
+-115.4313126,45.6569405,3.0,41.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-97.4728775,47.13331604,15.0,30.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-84.7204742,42.6858406,25.0,56.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-103.8992084,25.71342255,0.0,34.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-96.52218301,17.54607553,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-117.807373,41.6415482,20.0,51.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+2.431944,13.549722,13.0,24.0,0.1,AF-AfSP,Western Africa,Africa,Unknown
+-97.875,27.5297222,10.0,41.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-120.5167999,34.9538689,20.0,36.0,1.9,US-NCSS,Northern America,Northern America,Unknown
+-99.73405111,21.45963664,15.0,38.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-121.8141632,42.3166656,18.0,25.0,2.7,US-NCSS,Northern America,Northern America,Unknown
+34.18,0.18,0.0,30.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+35.416667,-4.65,0.0,35.0,4.0,AF-AfSP,Eastern Africa,Africa,Unknown
+-114.2817873,29.20979306,12.0,47.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-57.83333333,-32.66666667,17.0,40.0,0.1,WD-WISE,South America,South America,Unknown
+-114.2047713,27.21313846,8.0,34.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-104.8763497,27.31144174,22.0,47.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-102.1521866,20.74186873,23.0,41.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-110.8897201,24.32250116,13.0,32.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-112.8810384,27.25083469,19.0,43.0,16.0,MX-INEGI,Central America,Northern America,Unknown
+-114.0863196,27.98762802,8.0,20.0,11.7,MX-INEGI,Central America,Northern America,Unknown
+-115.458725,46.2676926,3.0,30.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-107.7860409,24.68332067,23.0,58.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+32.416667,-20.25,10.0,30.0,0.3,AF-AfSP,Eastern Africa,Africa,Unknown
+-98.05540812,18.70853974,0.0,22.0,2.2,MX-INEGI,Central America,Northern America,Unknown
+-114.1342755,28.92053417,15.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-89.51160267,18.08234342,0.0,29.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-109.5710127,29.76493139,15.0,62.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-111.9166641,45.0250015,0.0,30.0,2.0,US-NCSS,Northern America,Northern America,Unknown
+-98.98929596,43.51442719,13.0,56.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-97.91485185,19.10985466,0.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-106.1025805,28.92194428,0.0,22.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-100.7847991,26.39820985,15.0,47.0,9.1,MX-INEGI,Central America,Northern America,Unknown
+-98.51923443,21.98117936,0.0,42.0,2.5,MX-INEGI,Central America,Northern America,Unknown
+-89.1063919,37.3605537,8.0,22.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+115.806162,-33.289452,20.0,50.0,2.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-101.2016912,21.13930427,14.0,35.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+18.208333,4.888889,9.0,38.0,0.0,AF-AfSP,Middle Africa,Africa,Unknown
+-108.8602332,31.31092344,18.0,34.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+19.733333,6.683333,0.0,20.0,0.1,WD-WISE,Middle Africa,Africa,Unknown
+-110.944725,46.5944443,18.0,71.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+139.7294245,-33.14744135,15.0,30.0,0.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+15.75419998,-17.44720078,18.0,45.0,1.6,NA-NAMSOTER,Southern Africa,Africa,Unknown
+120.5819444,16.04972222,23.0,38.0,0.5,WD-WISE,South-Eastern Asia,Asia,Unknown
+-100.9642619,26.41685033,8.0,23.0,2.2,MX-INEGI,Central America,Northern America,Unknown
+44.03333333,13.58333333,9.0,29.0,0.8,US-NCSS,Western Asia,Asia,Unknown
+-96.701416,46.0221405,0.0,30.0,3.1,US-NCSS,Northern America,Northern America,Unknown
+-106.9792686,30.9050031,6.0,32.0,4.0,MX-INEGI,Central America,Northern America,Unknown
+-114.6083298,47.8402786,5.0,20.0,4.2,US-NCSS,Northern America,Northern America,Unknown
+-112.3778832,29.38965951,0.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-97.26557488,18.8528736,24.0,56.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-110.8050003,44.5719452,9.0,20.0,1.9,US-NCSS,Northern America,Northern America,Unknown
+68.71666667,25.35,10.0,45.0,1.7,WD-WISE,Southern Asia,Asia,Unknown
+-98.48773514,24.29678611,0.0,21.0,2.2,MX-INEGI,Central America,Northern America,Unknown
+139.6051623,-36.05619975,18.0,27.0,1.8,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-100.9560614,19.97005944,23.0,66.0,2.1,MX-INEGI,Central America,Northern America,Unknown
+135.2689842,-34.13764841,10.0,40.0,12.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-155.6591667,20.025,18.0,40.0,0.2,WD-WISE,Northern America,Northern America,Unknown
+-109.310147,26.05214706,22.0,49.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-102.321106,33.5046692,19.0,33.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-113.1806333,27.86745696,20.0,31.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-111.926684,31.57188533,13.0,27.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-108.8294449,37.0991669,25.0,69.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-99.6861003,16.71729393,0.0,34.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-91.67397118,16.07521138,10.0,36.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-102.9375,43.976387,13.0,30.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+138.6582645,-33.45516289,10.0,20.0,0.9,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+23.6,52.75,25.0,35.0,0.1,WD-WISE,Eastern Europe,Europe,Unknown
+13.13,50.18972222,22.0,52.0,0.0,EU-SOTER,Eastern Europe,Europe,Unknown
+147.6649933,61.8469429,24.0,40.0,0.0,WD-WISE,Eastern Europe,Europe,Unknown
+-80.45,35.83333333,0.0,25.0,0.1,WD-WISE,Northern America,Northern America,Unknown
+-103.579419,26.79009813,9.0,22.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-99.60526986,25.73067356,0.0,25.0,1.7,MX-INEGI,Central America,Northern America,Unknown
+-112.581665,43.5733337,5.0,21.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-119.8549347,41.9215279,13.0,18.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-67.0738889,18.0161111,17.0,39.0,0.7,US-NCSS,Caribbean,Northern America,Unknown
+25.0680561,42.2090263,10.0,24.0,14.4,WD-WISE,Eastern Europe,Europe,Unknown
+16.01189995,-17.52029991,20.0,45.0,1.2,NA-NAMSOTER,Southern Africa,Africa,Unknown
+161.9666667,-9.833333333,5.0,38.0,0.0,WD-WISE,Melanesia,Oceania,Unknown
+35.159722,-4.405556,20.0,65.0,0.5,AF-AfSP,Eastern Africa,Africa,Unknown
+128.887372,-15.42672,0.0,20.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-117.0539474,48.4748039,12.0,30.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+73.40629578,45.58474731,0.0,25.0,9.176333,KZ-SMSD,Central Asia,Asia,Unknown
+-117.5541687,46.9538879,13.0,25.0,0.1,WD-WISE,Northern America,Northern America,Unknown
+-94.42967156,16.33922841,16.0,41.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-89.42559073,21.31063779,8.0,24.0,15.0,MX-INEGI,Central America,Northern America,Unknown
+-99.29383988,22.47143748,25.0,43.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-112.313353,29.62418996,23.0,53.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-98.1052246,39.7850838,25.0,36.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-97.01548548,17.71801828,23.0,55.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-107.4314978,24.33135046,20.0,44.0,17.1,MX-INEGI,Central America,Northern America,Unknown
+-99.8381891,21.63256819,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-104.0191667,47.6177778,18.0,28.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-115.6094971,46.7658348,18.0,76.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-104.1909503,19.68602054,19.0,39.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.0916765,18.82605423,11.0,32.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-104.1511078,32.4577789,5.0,41.0,16.5,US-NCSS,Northern America,Northern America,Unknown
+34.97,0.05,17.0,40.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-57.42829895,-36.43360138,8.0,24.0,8.6,AR-SOTER,South America,South America,Unknown
+-103.2320306,46.8698806,0.0,30.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+138.6579492,-33.98306826,11.0,25.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-102.0293844,19.82877689,11.0,34.0,0.6,MX-INEGI,Central America,Northern America,Unknown
+-93.80966986,16.08901277,0.0,22.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-145.1605403,66.4694068,18.0,41.0,4.0,US-NCSS,Northern America,Northern America,Unknown
+99.85694444,19.98805556,23.0,56.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+-114.838913,38.8993874,15.0,31.0,11.9,US-NCSS,Northern America,Northern America,Unknown
+126.1333333,48.71666667,20.0,50.0,0.0,WD-WISE,Eastern Asia,Asia,Unknown
+-111.6218796,39.33218,13.0,25.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-99.6953908,47.2617152,15.0,30.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+35.03,-0.03,0.0,31.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-111.4388659,26.05383655,15.0,37.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+37.5995,-0.9615,13.0,26.0,0.1,KE-SOTER,Eastern Africa,Africa,Unknown
+-98.5842743,42.8344307,10.0,20.0,0.0,US-NCSS,Northern America,Northern America,Unknown
+29.78170013,-2.076944351,15.0,40.0,0.0,WD-WISE,Eastern Africa,Africa,Unknown
+-104.478201,21.27032945,0.0,22.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-120.9108353,44.2138901,13.0,30.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+100.9875031,-1.0638889,4.0,34.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+15.72249985,-17.80330086,0.0,20.0,6.5,NA-NAMSOTER,Southern Africa,Africa,Unknown
+4.5,7.483333,25.0,55.0,0.1,WD-WISE,Western Africa,Africa,Unknown
+-109.8789902,32.0537376,18.0,30.0,1.3,US-NCSS,Northern America,Northern America,Unknown
+-96.8676529,31.6151218,22.0,56.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-119.2487717,39.810173,11.0,28.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+140.6086434,-35.12187735,10.0,20.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-92.50142598,17.92805804,23.0,51.0,7.5,MX-INEGI,Central America,Northern America,Unknown
+-111.7200012,33.3469429,0.0,25.0,2.1,US-NCSS,Northern America,Northern America,Unknown
+35.0,-2.166667,0.0,20.0,0.3,AF-AfSP,Eastern Africa,Africa,Unknown
+-75.8194962,37.5821152,25.0,76.0,3.0,US-NCSS,Northern America,Northern America,Unknown
+-100.0827505,18.97370659,15.0,45.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-7.333333,5.883333,7.0,20.0,0.0,WD-WISE,Western Africa,Africa,Unknown
+42.2511101,44.6380539,18.0,48.0,0.6,US-NCSS,Eastern Europe,Europe,Unknown
+133.3007601,-31.89178342,25.0,45.0,1.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-105.6688256,28.61597476,0.0,23.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+28.066667,-14.716667,0.0,21.0,0.1,WD-WISE,Eastern Africa,Africa,Unknown
+-89.55,-0.916666667,20.0,30.0,0.1,LAC-SOTER,South America,South America,Unknown
+-103.3002778,46.4075,15.0,33.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-109.1656999,26.44149683,0.0,23.0,7.5,MX-INEGI,Central America,Northern America,Unknown
+-119.8758316,42.4441681,8.0,23.0,4.9,US-NCSS,Northern America,Northern America,Unknown
+58.8492012,23.08343506,0.0,23.0,1.4,WD-WISE,Western Asia,Asia,Unknown
+-106.1643612,25.66190332,2.0,31.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-100.2902778,48.7405556,15.0,20.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+33.183333,-4.216667,25.0,35.0,0.1,WD-WISE,Eastern Africa,Africa,Unknown
+-107.3430557,32.439724,10.0,25.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+137.3690133,-35.84458613,21.0,40.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-123.8194427,45.4399986,11.0,25.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+40.0,-3.117778,0.0,22.0,0.1,WD-WISE,Eastern Africa,Africa,Unknown
+138.204675,-33.96097941,17.0,35.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-98.6100006,32.6572227,18.0,41.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-112.9977798,37.3858337,25.0,46.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-99.1708298,44.330555,18.0,30.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+120.3166667,15.73333333,23.0,50.0,0.6,US-NCSS,South-Eastern Asia,Asia,Unknown
+135.1495934,-32.83721744,10.0,25.0,1.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+146.644251,-21.85148452,10.0,45.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+35.208333,-4.547222,20.0,42.0,0.1,WD-WISE,Eastern Africa,Africa,Unknown
+-117.6750031,40.9344444,5.0,20.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-107.9822235,38.4180565,22.0,50.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-105.2528643,20.78730972,25.0,50.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+128.857702,-15.444594,0.0,30.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-117.6444473,38.6361122,21.0,52.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-95.1677704,31.5348606,13.0,36.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-94.56344784,18.04677492,22.0,62.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+35.583333,13.366667,0.0,20.0,0.1,WD-WISE,Northern Africa,Africa,Unknown
+139.6806443,-35.81021564,20.0,35.0,0.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-119.8016663,38.8672218,8.0,23.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-97.1866667,46.8744444,18.0,28.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-97.96400452,46.23497772,15.0,30.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+113.650753,-24.859691,20.0,100.0,51.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+15.7968998,-17.82169914,0.0,20.0,5.0,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-121.7843781,38.533226,5.0,20.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-103.1588593,48.1572571,8.0,21.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+35.073333,-4.440833,10.0,32.0,0.4,AF-AfSP,Eastern Africa,Africa,Unknown
+-107.6496367,25.04249815,25.0,55.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-108.898056,31.4683342,8.0,23.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+35.040278,-4.266667,0.0,21.0,0.1,WD-WISE,Eastern Africa,Africa,Unknown
+-70.01666667,-4.033333333,10.0,35.0,0.1,WD-WISE,South America,South America,Unknown
+-120.3952789,41.5616684,23.0,33.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+18.005556,4.030556,10.0,32.0,0.1,WD-WISE,Middle Africa,Africa,Unknown
+-101.6669998,38.8320847,17.0,36.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-93.55495101,17.90398179,20.0,36.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+13.729706,12.396243,0.0,20.0,0.8,AF-AfSP,Western Africa,Africa,Unknown
+37.0833,0.3666,0.0,20.0,0.9,KE-SOTER,Eastern Africa,Africa,Unknown
+138.8175068,-33.92288776,20.0,25.0,0.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-92.19514467,14.88313227,16.0,27.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-105.8421676,29.69491318,12.0,27.0,2.6,MX-INEGI,Central America,Northern America,Unknown
+-108.8317947,39.25442123,25.0,50.0,2.8,US-NCSS,Northern America,Northern America,Unknown
+-93.69358832,15.87965515,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+1.666667,13.733333,22.0,56.0,0.1,AF-AfSP,Western Africa,Africa,Unknown
+-97.7594986,32.6965599,20.0,40.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+15.02972222,49.34,0.0,20.0,0.0,EU-SOTER,Eastern Europe,Europe,Unknown
+-66.9544444,18.0097222,10.0,36.0,13.2,US-NCSS,Caribbean,Northern America,Unknown
+-107.3670932,27.26258973,14.0,39.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-94.5313889,29.6986111,16.0,37.0,1.9,US-NCSS,Northern America,Northern America,Unknown
+-101.6309451,26.20768247,16.0,33.0,1.1,MX-INEGI,Central America,Northern America,Unknown
+-103.8844444,46.9963889,5.0,28.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-109.4940373,29.66615317,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-121.3441696,45.7999992,13.0,23.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+9.12100029,36.63299942,20.0,30.0,0.7,TN-SOTER,Northern Africa,Africa,Unknown
+140.3739359,-36.9712486,25.0,55.0,0.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-104.6850037,25.72646201,0.0,24.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-80.4545833,25.3302222,24.0,74.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-101.660553,48.9516678,23.0,41.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-97.0008333,47.02,20.0,38.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-110.6477084,23.84978399,0.0,23.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-114.9056946,31.09900177,10.0,25.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+42.2511101,44.6380539,7.0,26.0,0.9,WD-WISE,Eastern Europe,Europe,Unknown
+-100.3621105,24.47429577,14.0,24.0,7.2,MX-INEGI,Central America,Northern America,Unknown
+140.9653181,-34.89021514,13.0,30.0,1.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+86.70752716,27.82235909,0.0,30.0,0.1,NP-SOTER,Southern Asia,Asia,Unknown
+-98.15522,32.1171684,21.0,31.0,1.1,US-NCSS,Northern America,Northern America,Unknown
+23.356873,-12.645496,22.0,47.0,0.1,AF-AfSP,Middle Africa,Africa,Unknown
+140.2544887,-35.33542149,18.0,45.0,1.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-112.16857,31.2622006,6.0,26.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-114.541954,38.0957909,20.0,35.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-117.2244415,33.3619461,0.0,25.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-110.1378084,23.40243692,0.0,28.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-106.9874565,28.17403214,9.0,32.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+146.468798,-23.63487705,0.0,24.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-112.3564845,30.16631746,20.0,79.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-108.1428909,39.657196,0.0,36.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+138.6304238,-34.57423935,15.0,36.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-110.2594911,23.89388216,17.0,29.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-109.9974518,31.6959991,10.0,20.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-100.7449452,20.0375469,22.0,51.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-102.58,47.2955556,13.0,28.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-74.64777778,-15.45583333,0.0,20.0,9.0,LAC-SOTER,South America,South America,Unknown
+-103.1497222,46.3641667,25.0,43.0,4.0,US-NCSS,Northern America,Northern America,Unknown
+-106.1253891,32.8945007,10.0,38.0,26.2,US-NCSS,Northern America,Northern America,Unknown
+32.533333,15.55,5.0,25.0,1.0,WD-WISE,Northern Africa,Africa,Unknown
+-103.428129,24.95557985,25.0,51.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+-102.4268801,22.89276094,10.0,20.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-8.033611111,31.68166667,20.0,40.0,0.1,WD-WISE,Northern Africa,Africa,Unknown
+-107.3409722,24.45017447,0.0,35.0,2.5,MX-INEGI,Central America,Northern America,Unknown
+-106.4814145,26.03368091,17.0,70.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-115.8852768,45.8325272,0.0,27.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-119.6399994,47.5111122,20.0,36.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-109.0959024,30.07010172,8.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+9.233333,4.116667,16.0,26.0,0.1,WD-WISE,Middle Africa,Africa,Unknown
+82.49404144,27.93663979,5.0,35.0,0.1,NP-SOTER,Southern Asia,Asia,Unknown
+-6.433333333,38.8,6.0,20.0,0.3,WD-WISE,Southern Europe,Europe,Unknown
+101.2769444,17.42916667,22.0,42.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+139.8650652,-35.95589664,25.0,33.0,0.9,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-108.5841675,36.1744461,10.0,28.0,2.9,US-NCSS,Northern America,Northern America,Unknown
+140.5497281,-37.02961107,15.0,35.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-100.3473444,28.29780314,0.0,21.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-101.4600955,17.79379164,8.0,22.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-120.0129157,36.5505023,0.0,28.0,3.0,US-NCSS,Northern America,Northern America,Unknown
+-112.0077744,38.8183327,20.0,30.0,5.8,US-NCSS,Northern America,Northern America,Unknown
+-100.056969,24.5610827,19.0,39.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-101.1833344,33.1375008,17.0,43.0,4.2,US-NCSS,Northern America,Northern America,Unknown
+-120.3145278,40.3280833,8.0,28.0,1.4,US-NCSS,Northern America,Northern America,Unknown
+137.2201385,-35.90511992,10.0,25.0,0.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-108.5680445,26.42829309,19.0,38.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+34.916667,-0.666667,20.0,30.0,0.1,WD-WISE,Eastern Africa,Africa,Unknown
+-106.5866776,32.3473549,23.0,38.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-90.38733834,20.54014113,17.0,40.0,6.0,MX-INEGI,Central America,Northern America,Unknown
+146.4103872,-22.81545818,24.0,55.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-97.253279,48.2498914,0.0,30.0,3.8,US-NCSS,Northern America,Northern America,Unknown
+-102.9139328,33.2396698,16.0,61.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+169.2513145,-46.59014964,28.0,30.0,0.1,WD-WISE,Australia and New Zealand,Oceania,Unknown
+-105.8690717,24.56649836,0.0,21.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-97.6415796,48.4917686,0.0,30.0,1.1,US-NCSS,Northern America,Northern America,Unknown
+-102.2877074,21.6425482,21.0,36.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-111.2847214,46.3583336,13.0,18.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-120.5127792,47.0038872,13.0,30.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-80.25,22.81999969,0.0,34.0,0.4,CU-SOTER,Caribbean,Northern America,Unknown
+-96.4791931,16.07835767,0.0,23.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-102.198161,20.98004501,0.0,23.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-103.4686446,21.48011658,11.0,22.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+27.31712723,47.41623306,10.0,20.0,0.1,WD-WISE,Eastern Europe,Europe,Unknown
+138.884511,-35.13083934,18.0,30.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+138.7241491,-34.95845201,10.0,25.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-96.16454636,16.9720638,17.0,40.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-120.0736084,35.8677788,13.0,36.0,3.3,US-NCSS,Northern America,Northern America,Unknown
+-101.8109823,24.35440679,13.0,28.0,0.4,MX-INEGI,Central America,Northern America,Unknown
+138.2871025,-33.54360976,11.0,25.0,0.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-98.8508301,44.6347237,0.0,23.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-108.0551834,38.5688515,20.0,63.0,1.8,US-NCSS,Northern America,Northern America,Unknown
+-106.3399152,26.82519851,17.0,45.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-103.9911118,47.8922234,18.0,32.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-97.0155556,47.05,0.0,20.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-76.2708359,35.3586121,25.0,51.0,36.5,US-NCSS,Northern America,Northern America,Unknown
+-96.148056,32.4230537,20.0,41.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+34.233333,-2.2,14.0,35.0,0.2,AF-AfSP,Eastern Africa,Africa,Unknown
+-101.6638336,33.1230278,18.0,30.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-76.08,20.32972222,0.0,20.0,0.4,CU-SOTER,Caribbean,Northern America,Unknown
+15.22830009,-17.62579918,17.0,32.0,2.6,NA-NAMSOTER,Southern Africa,Africa,Unknown
+78.0,9.8999996,23.0,33.0,0.5,WD-WISE,Southern Asia,Asia,Unknown
+-98.3777771,36.7249985,15.0,51.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-92.68297064,18.5201572,18.0,59.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-108.0234397,27.27811988,0.0,29.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-82.2333298,8.6000004,25.0,60.0,0.1,WD-WISE,Central America,Northern America,Unknown
+-114.6080551,34.9661102,8.0,20.0,2.1,US-NCSS,Northern America,Northern America,Unknown
+29.316667,-3.366667,15.0,40.0,0.0,WD-WISE,Eastern Africa,Africa,Unknown
+-100.7646637,46.7674675,20.0,33.0,1.2,US-NCSS,Northern America,Northern America,Unknown
+-89.13281715,18.65011216,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+26.313507,41.62436,0.0,25.0,0.4,WD-WISE,Southern Europe,Europe,Unknown
+-103.273458,19.33803012,18.0,47.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-102.1222222,47.3930556,13.0,25.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-110.6252747,40.4333344,15.0,46.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+1.248889,14.346111,0.0,40.0,6.0,AF-AfSP,Western Africa,Africa,Unknown
+-92.36235327,15.6930979,24.0,39.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-105.0974292,22.6116244,15.0,45.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-98.2486111,46.2819444,13.0,38.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+145.3904665,-22.59908619,4.0,35.0,2.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+23.658333,-20.991667,0.0,25.0,0.1,SAF-SOTER,Southern Africa,Africa,Unknown
+-114.8518334,29.26554114,15.0,25.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-75.7362213,37.5565529,20.0,56.0,0.0,US-NCSS,Northern America,Northern America,Unknown
+-111.3541341,28.38091334,20.0,38.0,0.9,MX-INEGI,Central America,Northern America,Unknown
+-108.3100815,35.8872604,23.0,41.0,1.8,US-NCSS,Northern America,Northern America,Unknown
+17.5318,-17.4588,22.0,38.0,11.8,SAF-SOTER,Southern Africa,Africa,Unknown
+17.05940056,-17.53720093,21.0,70.0,4.0,NA-NAMSOTER,Southern Africa,Africa,Unknown
+13.80817,12.307216,22.0,73.0,0.3,AF-AfSP,Western Africa,Africa,Unknown
+-73.0294037,-41.4937325,16.0,30.0,0.1,WD-WISE,South America,South America,Unknown
+-119.2501602,39.9782257,10.0,23.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+34.95,0.05,9.0,24.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-112.4189114,29.70724158,0.0,24.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-98.7337028,28.5539722,10.0,32.0,2.9,US-NCSS,Northern America,Northern America,Unknown
+138.2419916,-35.53704942,20.0,50.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-90.92121028,19.04085671,18.0,45.0,5.0,MX-INEGI,Central America,Northern America,Unknown
+-98.30897853,16.49571236,24.0,43.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-104.01375,37.0691111,8.0,26.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-90.40346912,20.19895615,20.0,125.0,7.5,MX-INEGI,Central America,Northern America,Unknown
+-88.0603082,40.5089158,25.0,38.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-103.2042007,47.3827362,22.0,32.0,1.3,US-NCSS,Northern America,Northern America,Unknown
+-97.32543415,20.77265812,0.0,24.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+11.533333,-2.216667,19.0,40.0,0.0,WD-WISE,Middle Africa,Africa,Unknown
+135.5367912,-34.46503694,10.0,40.0,0.7,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-114.3639919,28.83562281,18.0,30.0,6.0,MX-INEGI,Central America,Northern America,Unknown
+-100.3420778,36.6667222,13.0,33.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-110.4497789,29.31553493,0.0,22.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+37.88503,-0.11952,7.0,34.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-114.3314417,38.8897528,18.0,52.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-106.7843501,24.3343987,21.0,40.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+139.8287683,-35.21578893,11.0,67.0,4.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-97.50405256,20.53428037,0.0,30.0,2.5,MX-INEGI,Central America,Northern America,Unknown
+-106.2627778,32.8930556,14.0,46.0,2.7,US-NCSS,Northern America,Northern America,Unknown
+-96.35115383,15.73476849,13.0,31.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+86.95433044,26.72031021,15.0,50.0,0.1,NP-SOTER,Southern Asia,Asia,Unknown
+140.2588384,-37.51579793,18.0,24.0,3.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+138.1734269,-33.33397236,10.0,30.0,0.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-100.5124251,24.97934788,15.0,34.0,2.4,MX-INEGI,Central America,Northern America,Unknown
+136.9577419,-35.21013121,22.0,45.0,0.8,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-99.12529493,16.83567659,0.0,27.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+100.4211111,7.086111111,23.0,39.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+15.85830021,-17.74360085,25.0,65.0,1.8,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-120.6750031,43.2383347,25.0,46.0,5.9,US-NCSS,Northern America,Northern America,Unknown
+-107.8923164,24.66797084,5.0,21.0,22.8,MX-INEGI,Central America,Northern America,Unknown
+-105.1898193,47.21272278,20.0,40.0,1.1,US-NCSS,Northern America,Northern America,Unknown
+-105.2680187,22.29792541,0.0,30.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+20.71083333,40.72166667,0.0,20.0,1.0,WD-WISE,Southern Europe,Europe,Unknown
+-72.6413778,42.293625,25.0,43.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-113.866459,26.98901914,6.0,24.0,10.0,MX-INEGI,Central America,Northern America,Unknown
+-99.06745086,17.77936107,9.0,46.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+27.483333,-29.316667,16.0,30.0,0.1,WD-WISE,Southern Africa,Africa,Unknown
+-102.097084,35.1787491,10.0,25.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-108.2718902,26.77009917,25.0,52.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+109.8666667,1.666666667,10.0,25.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+37.5158,-0.7624,15.0,95.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-104.2919967,22.3147003,25.0,40.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-115.9785528,30.39404248,13.0,60.0,35.0,MX-INEGI,Central America,Northern America,Unknown
+-115.5512828,31.33642905,0.0,28.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-100.9438629,38.4798889,12.0,28.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-107.9966046,27.86163823,20.0,30.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+18.4122,-21.3422,23.0,60.0,6.0,SAF-SOTER,Southern Africa,Africa,Unknown
+-102.6376136,28.73467304,21.0,33.0,3.5,MX-INEGI,Central America,Northern America,Unknown
+-101.3502932,28.13792914,22.0,70.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+115.859451,-33.031003,20.0,50.0,1.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-99.32958984,44.04164505,13.0,23.0,1.1,US-NCSS,Northern America,Northern America,Unknown
+140.2481671,-34.89043806,25.0,70.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-103.3293633,24.5330545,0.0,24.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+6.416666667,50.91666667,15.0,30.0,0.1,WD-WISE,Western Europe,Europe,Unknown
+-104.3038864,43.0488892,20.0,41.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-100.9746265,25.96231093,11.0,43.0,2.1,MX-INEGI,Central America,Northern America,Unknown
+-106.5033795,31.11251481,22.0,48.0,30.0,MX-INEGI,Central America,Northern America,Unknown
+-115.4870448,29.6341938,18.0,45.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-94.3375931,33.0872536,23.0,56.0,0.0,US-NCSS,Northern America,Northern America,Unknown
+37.366667,-1.881111,0.0,22.0,0.1,WD-WISE,Eastern Africa,Africa,Unknown
+-111.2186127,44.085556,15.0,36.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+27.254444,-23.29,16.0,30.0,0.9,SAF-SOTER,Southern Africa,Africa,Unknown
+-109.2676468,39.45830536,0.0,20.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-115.746,43.1649444,15.0,27.0,6.4,US-NCSS,Northern America,Northern America,Unknown
+-111.6447214,25.27470251,10.0,21.0,2.5,MX-INEGI,Central America,Northern America,Unknown
+-150.0833282,61.4166679,20.0,25.0,0.1,WD-WISE,Northern America,Northern America,Unknown
+22.12972222,51.18,0.0,25.0,0.1,EU-SOTER,Eastern Europe,Europe,Unknown
+-82.9998703,39.61670303,25.0,50.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-8.13,31.73055556,15.0,60.0,6.8,WD-WISE,Northern Africa,Africa,Unknown
+-116.5865969,32.18490559,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-108.2880212,26.6112711,0.0,34.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-94.531723,29.6986675,19.0,40.0,2.3,US-NCSS,Northern America,Northern America,Unknown
+-119.2430573,35.2216682,10.0,23.0,3.2,US-NCSS,Northern America,Northern America,Unknown
+-115.6303635,46.7368317,0.0,31.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-98.74182439,18.85160975,24.0,59.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-98.6938858,45.1055565,5.0,23.0,1.1,US-NCSS,Northern America,Northern America,Unknown
+-98.56373694,16.49324958,17.0,36.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-94.5161667,29.7306083,0.0,20.0,1.4,US-NCSS,Northern America,Northern America,Unknown
+-107.1535304,27.27572556,22.0,35.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-120.7461395,36.3704987,7.0,21.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+140.6956496,-36.52344708,15.0,32.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+39.2999992,35.9000015,0.0,20.0,24.5,US-NCSS,Western Asia,Asia,Unknown
+-105.0755972,21.64111525,8.0,42.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+1.736389,13.109444,6.0,35.0,0.1,WD-WISE,Western Africa,Africa,Unknown
+-102.415015,19.65021031,0.0,49.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+17.6111,-19.6769,24.0,53.0,11.0,NA-NAMSOTER,Southern Africa,Africa,Unknown
+146.1406655,-22.86588237,17.0,50.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-98.2638855,45.4527779,15.0,43.0,6.3,US-NCSS,Northern America,Northern America,Unknown
+-98.2869415,44.1405563,0.0,23.0,1.1,US-NCSS,Northern America,Northern America,Unknown
+-103.9948496,23.8783281,0.0,37.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+35.6166649,31.8999996,0.0,34.0,8.5,US-NCSS,Western Asia,Asia,Unknown
+-94.6311389,30.5778889,8.0,41.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-97.7783356,28.1875,0.0,28.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-97.9207513,20.37087901,0.0,24.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-108.1243515,45.8810387,13.0,28.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+160.2901611,-77.5465851,8.0,20.0,38.8,US-NCSS,Antarctica,Antarctica,Unknown
+87.20815277,27.66470909,0.0,20.0,0.1,NP-SOTER,Southern Asia,Asia,Unknown
+137.9315271,-35.75872036,14.0,30.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-91.50469914,17.82658482,15.0,30.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-98.8061697,20.59974455,15.0,45.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-109.0231042,26.63706659,24.0,58.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-108.6452789,35.2119446,7.0,23.0,3.5,US-NCSS,Northern America,Northern America,Unknown
+-98.51648039,16.53774772,0.0,30.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-93.29217097,15.9009327,0.0,21.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-120.0312958,40.16627121,15.0,33.0,2.6,US-NCSS,Northern America,Northern America,Unknown
+-114.4777756,34.8788872,0.0,25.0,2.6,US-NCSS,Northern America,Northern America,Unknown
+-105.7382387,29.36589711,13.0,33.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-76.13999939,-2.5,10.0,35.0,0.4,LAC-SOTER,South America,South America,Unknown
+115.806162,-33.289452,10.0,20.0,4.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-117.8775024,44.8774986,23.0,53.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-97.1981283,47.8610019,0.0,33.0,9.9,US-NCSS,Northern America,Northern America,Unknown
+-120.4547195,41.4480553,15.0,33.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-101.1747206,21.45484038,10.0,20.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-106.2886944,32.87125,0.0,42.0,17.3,US-NCSS,Northern America,Northern America,Unknown
+113.733781,-24.85693,25.0,50.0,48.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-107.8387222,40.2499695,7.0,20.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-94.69392507,16.51738762,0.0,30.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-112.2580363,30.25944547,20.0,41.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-107.8264635,27.60864557,11.0,39.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-99.65591605,27.18683582,0.0,22.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-108.9159622,39.26636505,0.0,20.0,2.8,US-NCSS,Northern America,Northern America,Unknown
+-100.5254987,24.82162389,0.0,20.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-101.8234404,25.70351676,16.0,40.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-97.2405228,47.0947881,23.0,33.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+146.2720679,-21.96434465,4.0,55.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-116.902626,35.3869133,8.0,23.0,1.6,US-NCSS,Northern America,Northern America,Unknown
+-99.1635056,33.8519592,12.0,31.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-117.2038879,33.9477768,13.0,25.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+36.38,-0.27,20.0,32.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+133.3044515,-31.83455416,22.0,40.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-113.8392939,28.92856424,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-96.95463221,17.5309646,18.0,48.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+34.183333,-2.283333,10.0,40.0,0.6,AF-AfSP,Eastern Africa,Africa,Unknown
+-75.6660614,37.7543831,25.0,63.0,0.0,US-NCSS,Northern America,Northern America,Unknown
+-111.0136566,48.4218559,20.0,76.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-97.58368931,21.44353976,0.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-115.9013596,46.8383598,5.0,56.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-113.9831829,28.28313644,25.0,40.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+13.5375,41.48666667,15.0,40.0,0.1,WD-WISE,Southern Europe,Europe,Unknown
+-106.3649108,26.93435988,18.0,40.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-101.6139941,18.18445904,0.0,21.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+37.8,-7.3,20.0,55.0,0.1,SAF-SOTER,Eastern Africa,Africa,Unknown
+-97.6992321,48.5279656,0.0,30.0,6.2,US-NCSS,Northern America,Northern America,Unknown
+-110.6477084,23.84978399,23.0,65.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-102.4496089,22.18088202,20.0,45.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+27.38,58.28,0.0,150.0,0.0,EU-SOTER,Northern Europe,Europe,Unknown
+-98.25514979,16.33387842,16.0,49.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-107.5693216,25.56312772,10.0,42.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-106.526947,44.3341675,19.0,36.0,3.2,US-NCSS,Northern America,Northern America,Unknown
+140.687086,-35.44647279,13.0,24.0,0.8,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-98.10426731,20.4230008,22.0,55.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+139.7063237,-33.80241797,8.0,25.0,0.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-99.1263885,44.2513885,25.0,36.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-70.48,-15.85,20.0,35.0,0.2,LAC-SOTER,South America,South America,Unknown
+-102.5362222,43.7304722,3.0,20.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+28.183333,-13.516667,6.0,25.0,0.0,WD-WISE,Eastern Africa,Africa,Unknown
+-98.6790009,28.5576916,9.0,33.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-110.7522581,29.93503544,0.0,20.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-101.684671,20.1255619,18.0,36.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-97.1721878,30.9880943,18.0,38.0,2.5,US-NCSS,Northern America,Northern America,Unknown
+-7.983333,12.666667,20.0,41.0,0.1,WD-WISE,Western Africa,Africa,Unknown
+-101.0711178,23.56837151,0.0,20.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-103.2601972,42.3374389,9.0,32.0,13.2,US-NCSS,Northern America,Northern America,Unknown
+69.19381714,54.54298401,0.0,25.0,0.13506666,KZ-SMSD,Central Asia,Asia,Unknown
+-7.811388889,53.90833333,7.0,40.0,0.1,WD-WISE,Northern Europe,Europe,Unknown
+-97.16820423,25.95387374,0.0,22.0,12.5,MX-INEGI,Central America,Northern America,Unknown
+-99.79524866,23.03571528,13.0,60.0,20.0,MX-INEGI,Central America,Northern America,Unknown
+-104.135231,34.1909294,15.0,34.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+139.7199961,-33.36485851,0.0,20.0,0.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-98.8467865,42.4197121,13.0,25.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+42.868332,0.385825,10.0,45.0,0.8,WD-WISE,Eastern Africa,Africa,Unknown
+-98.1900024,28.6066666,9.0,24.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-121.6882629,38.6657257,10.0,33.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-75.7379608,37.6582336,0.0,36.0,48.0,US-NCSS,Northern America,Northern America,Unknown
+123.2863889,13.66666667,0.0,27.0,0.1,WD-WISE,South-Eastern Asia,Asia,Unknown
+-119.2369444,39.3319444,8.0,21.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-107.888443,40.3349686,10.0,23.0,0.7,WD-WISE,Northern America,Northern America,Unknown
+-107.8886795,38.6225201,18.0,102.0,24.9,US-NCSS,Northern America,Northern America,Unknown
+28.94583,-23.18,0.0,30.0,0.6,SAF-SOTER,Southern Africa,Africa,Unknown
+-108.1635803,31.3900629,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+83.46659851,27.70000076,0.0,20.0,0.1,WD-WISE,Southern Asia,Asia,Unknown
+-108.0822896,29.40045966,8.0,20.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-96.5869446,39.0802765,20.0,31.0,1.2,US-NCSS,Northern America,Northern America,Unknown
+-83.6607132,43.5197258,0.0,25.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-101.4870674,25.61169725,15.0,55.0,1.4,MX-INEGI,Central America,Northern America,Unknown
+-104.4566882,21.76351731,15.0,52.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+3.214722,13.992778,0.0,50.0,0.1,AF-AfSP,Western Africa,Africa,Unknown
+-107.045886,28.68271175,23.0,65.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-89.8616638,30.0908337,13.0,30.0,10.1,US-NCSS,Northern America,Northern America,Unknown
+83.56746674,27.8301506,15.0,50.0,0.3,NP-SOTER,Southern Asia,Asia,Unknown
+31.45,-8.95,10.0,20.0,0.0,WD-WISE,Eastern Africa,Africa,Unknown
+-114.3977814,47.4752769,20.0,41.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-99.60123096,23.62648324,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+38.29972222,45.4,23.0,60.0,14.4,EU-SOTER,Eastern Europe,Europe,Unknown
+-101.3658747,22.02434375,0.0,31.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-104.8744577,29.42492177,0.0,25.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-97.47260284,47.13442612,15.0,30.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-87.76349237,21.29986519,4.0,20.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-97.74694572,21.12293583,0.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+86.45142365,27.1923008,12.0,40.0,0.0,NP-SOTER,Southern Asia,Asia,Unknown
+-103.5199966,41.5272217,10.0,20.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+35.040278,-4.266667,21.0,75.0,0.1,AF-AfSP,Eastern Africa,Africa,Unknown
+-101.8070872,19.45310292,21.0,60.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-99.7361259,48.229004,15.0,30.0,1.9,US-NCSS,Northern America,Northern America,Unknown
+-99.80971806,24.60831521,16.0,45.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+56.6583328,24.1083336,13.0,33.0,3.5,WD-WISE,Western Asia,Asia,Unknown
+-100.8921692,28.92375172,14.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.1588593,48.1572571,21.0,63.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-102.2041702,43.8052788,13.0,23.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-116.2487564,44.2504272,13.0,23.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-102.8458333,46.3613889,15.0,38.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-99.05223241,22.28013727,0.0,50.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-79.7497711,36.333416,0.0,28.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+128.9177704,35.1072235,0.0,26.0,1.2,US-NCSS,Eastern Asia,Asia,Unknown
+-105.7532373,25.67579523,12.0,28.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-98.37659149,24.04185566,0.0,34.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-99.21586182,19.02337083,0.0,50.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-100.0950867,26.31252994,0.0,20.0,0.4,MX-INEGI,Central America,Northern America,Unknown
+-95.0864583,37.26405,0.0,20.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+35.0,0.53,20.0,42.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-119.1588898,46.3624992,23.0,38.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-105.9776083,23.38712365,24.0,60.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-159.4008333,22.07138889,0.0,35.0,0.0,WD-WISE,Northern America,Northern America,Unknown
+39.25,-4.27,0.0,20.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-98.0749969,41.0583344,15.0,46.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-99.6719437,34.4633331,25.0,53.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+10.263056,6.479722,0.0,22.0,0.1,AF-AfSP,Middle Africa,Africa,Unknown
+-98.46682986,25.81437302,12.0,43.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+34.13,-0.15,12.0,31.0,0.1,KE-SOTER,Eastern Africa,Africa,Unknown
+-116.2702586,32.36767585,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+35.29,-3.7,16.0,34.0,5.0,SAF-SOTER,Eastern Africa,Africa,Unknown
+-97.0300827,46.4274826,15.0,38.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-98.91253812,21.07773434,25.0,48.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-97.1119461,47.8627777,0.0,30.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+14.124678,12.347944,0.0,34.0,0.2,AF-AfSP,Western Africa,Africa,Unknown
+-120.4030533,46.9263878,8.0,23.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+139.8927669,-35.15506935,8.0,27.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+30.65,37.0,15.0,50.0,0.4,WD-WISE,Western Asia,Asia,Unknown
+-105.0101718,28.5123011,0.0,27.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-105.0336075,42.0875015,15.0,25.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-114.0995636,46.9023819,15.0,36.0,3.5,US-NCSS,Northern America,Northern America,Unknown
+-115.6030729,30.60669036,12.0,32.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-92.01174338,15.98406964,0.0,27.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+35.2093,1.3273,20.0,45.0,0.1,KE-SOTER,Eastern Africa,Africa,Unknown
+-88.08885486,21.04614108,0.0,23.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-94.13353948,17.51355762,12.0,27.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-111.679718,33.31147,15.0,30.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+33.66972222,51.5,25.0,58.0,0.0,EU-SOTER,Eastern Europe,Europe,Unknown
+15.64190006,-17.78720093,19.0,75.0,4.7,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-116.6706294,31.93710723,15.0,39.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+144.7305799,-20.2504219,5.0,70.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-111.4945946,24.64984282,20.0,53.0,7.5,MX-INEGI,Central America,Northern America,Unknown
+-94.2839876,18.13740194,22.0,43.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+140.3046355,-36.21934894,10.0,28.0,3.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-102.3269444,48.8397222,15.0,30.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-103.4627304,31.5123367,0.0,20.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+37.03472,-16.85083,0.0,20.0,0.1,SAF-SOTER,Eastern Africa,Africa,Unknown
+-113.8022232,37.3297234,7.0,25.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-93.32935256,18.11013151,12.0,33.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-109.6446906,29.71256282,0.0,48.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-90.10157823,18.38963479,0.0,27.0,2.6,MX-INEGI,Central America,Northern America,Unknown
+-102.5470443,23.04657928,0.0,23.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-107.9041672,47.8277779,5.0,25.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-103.5752792,42.9791679,10.0,51.0,1.6,US-NCSS,Northern America,Northern America,Unknown
+138.229393,-33.99940157,25.0,40.0,0.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+4.916667,7.65,15.0,50.0,0.0,WD-WISE,Western Africa,Africa,Unknown
+145.5548015,-22.67359975,12.0,70.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-89.65017592,19.08204858,0.0,20.0,0.4,MX-INEGI,Central America,Northern America,Unknown
+86.29329681,26.72018051,10.0,110.0,1.0,NP-SOTER,Southern Asia,Asia,Unknown
+-107.2893048,30.20896184,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-116.2405548,39.3813896,8.0,25.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+1.347778,13.159444,0.0,20.0,0.1,AF-AfSP,Western Africa,Africa,Unknown
+13.98972222,50.02972222,0.0,21.0,0.0,EU-SOTER,Eastern Europe,Europe,Unknown
+15.97809982,-17.44720078,0.0,29.0,1.3,NA-NAMSOTER,Southern Africa,Africa,Unknown
+38.7666664,35.75,17.0,31.0,3.8,US-NCSS,Western Asia,Asia,Unknown
+-105.316368,25.59464145,0.0,23.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-95.9368896,46.1724434,0.0,23.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+145.6645224,-23.24216335,10.0,35.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+146.5527563,-21.63004832,2.0,30.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-104.9876873,30.06821627,13.0,36.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-103.9975357,45.34773254,20.0,30.0,5.3,US-NCSS,Northern America,Northern America,Unknown
+-116.5692525,32.33076091,17.0,30.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-110.7410013,30.9775147,15.0,32.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-101.5379265,27.02613618,20.0,41.0,1.7,MX-INEGI,Central America,Northern America,Unknown
+-103.9777756,45.3444443,10.0,21.0,0.5,WD-WISE,Northern America,Northern America,Unknown
+-88.65879838,20.43257372,15.0,28.0,3.5,MX-INEGI,Central America,Northern America,Unknown
+-104.6658608,23.31920139,0.0,25.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+43.9,45.0,25.0,45.0,1.1,EU-SOTER,Eastern Europe,Europe,Unknown
+56.6583328,24.1083336,18.0,41.0,12.7,US-NCSS,Western Asia,Asia,Unknown
+-115.255208,32.1764997,0.0,30.0,25.0,MX-INEGI,Central America,Northern America,Unknown
+-113.4561081,45.5116653,18.0,28.0,5.2,US-NCSS,Northern America,Northern America,Unknown
+-98.48773514,24.29678611,21.0,48.0,2.5,MX-INEGI,Central America,Northern America,Unknown
+-105.476387,43.6786118,10.0,30.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-94.60697479,17.96778936,18.0,26.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-97.336113,31.044445,0.0,30.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-116.9436111,43.9666672,13.0,25.0,4.5,US-NCSS,Northern America,Northern America,Unknown
+-112.1851883,35.0761452,21.0,36.0,2.6,US-NCSS,Northern America,Northern America,Unknown
+-76.83333333,-0.316666667,8.0,38.0,0.0,WD-WISE,South America,South America,Unknown
+145.0685004,-21.98811246,2.0,52.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-103.3649826,41.7588654,18.0,51.0,26.9,US-NCSS,Northern America,Northern America,Unknown
+-116.077774,42.9249992,19.0,35.0,5.7,US-NCSS,Northern America,Northern America,Unknown
+-114.2661133,36.7763901,17.0,31.0,1.1,US-NCSS,Northern America,Northern America,Unknown
+34.7,0.4,0.0,21.0,0.4,KE-SOTER,Eastern Africa,Africa,Unknown
+-121.1026764,37.44353104,18.0,36.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+27.48,57.82,0.0,150.0,0.0,EU-SOTER,Northern Europe,Europe,Unknown
+-57.75,-31.16666667,15.0,35.0,0.1,WD-WISE,South America,South America,Unknown
+-56.83333333,-34.08333333,16.0,28.0,0.1,WD-WISE,South America,South America,Unknown
+113.6583333,23.65,8.0,20.0,0.0,WD-WISE,Eastern Asia,Asia,Unknown
+-100.168567,27.21371373,0.0,35.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-96.3055267,42.228138,7.0,20.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-109.0068224,27.04797998,10.0,30.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-97.2624969,44.8972206,20.0,38.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-111.5349197,38.32580948,12.0,57.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-115.8425124,31.58134234,0.0,21.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-97.61632603,17.14729423,0.0,38.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+9.65,4.7,13.0,32.0,0.1,AF-AfSP,Middle Africa,Africa,Unknown
+-101.8153662,28.88452827,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-101.6257706,43.1174736,23.0,30.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-107.2807423,24.36052339,19.0,44.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-113.9435376,27.96092305,20.0,31.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-89.4706852,19.29792444,14.0,40.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-111.6936111,48.7419434,8.0,28.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-0.0769444,6.1358333,0.0,22.0,0.7,US-NCSS,Western Africa,Africa,Unknown
+32.533333,15.55,25.0,40.0,7.7,WD-WISE,Northern Africa,Africa,Unknown
+35.15,-4.691667,20.0,90.0,0.6,WD-WISE,Eastern Africa,Africa,Unknown
+35.3,1.4,20.0,50.0,0.1,KE-SOTER,Eastern Africa,Africa,Unknown
+-104.7720338,27.65556208,15.0,35.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+34.95,10.35,0.0,22.0,0.3,AF-AfSP,Eastern Africa,Africa,Unknown
+19.68361111,41.63777778,17.0,39.0,0.9,WD-WISE,Southern Europe,Europe,Unknown
+-102.2453687,26.01456843,0.0,27.0,0.4,MX-INEGI,Central America,Northern America,Unknown
+-101.6932755,43.1163635,26.0,31.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-103.6344866,24.14417499,21.0,34.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-111.5804305,24.54978721,0.0,23.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-105.1691696,20.80276238,23.0,52.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+128.907069,-15.462467,0.0,40.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-112.6303756,30.27114919,9.0,32.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+26.55333,-27.17,25.0,65.0,0.1,AF-AfSP,Southern Africa,Africa,Unknown
+-100.4389565,21.55255074,13.0,29.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-100.0794023,24.19622363,16.0,27.0,2.5,MX-INEGI,Central America,Northern America,Unknown
+29.316667,-3.366667,12.0,25.0,0.1,WD-WISE,Eastern Africa,Africa,Unknown
+-16.983889,14.816667,10.0,43.0,0.2,SN&GM-SOTER,Western Africa,Africa,Unknown
+138.1971663,-35.55764663,12.0,27.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+120.5166667,15.96666667,23.0,40.0,0.6,US-NCSS,South-Eastern Asia,Asia,Unknown
+-114.5216675,34.9908333,23.0,36.0,10.6,US-NCSS,Northern America,Northern America,Unknown
+1.853056,13.626944,0.0,20.0,0.0,WD-WISE,Western Africa,Africa,Unknown
+-99.01452666,21.09048034,20.0,50.0,0.5,MX-INEGI,Central America,Northern America,Unknown
+-102.3809819,28.95260929,23.0,39.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-106.8685203,29.30395519,16.0,41.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-112.001396,30.89270725,15.0,28.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-112.2619476,33.6386108,23.0,38.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-80.62972222,-5.82,15.0,40.0,8.0,LAC-SOTER,South America,South America,Unknown
+-102.2634117,17.95561625,0.0,20.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-118.6227036,43.2804337,12.0,32.0,5.7,US-NCSS,Northern America,Northern America,Unknown
+-98.3309431,20.34397916,0.0,22.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+38.9,-2.7,24.0,49.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-102.4788834,24.89359036,0.0,31.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-106.125649,26.78178455,15.0,29.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-117.3238907,34.7688904,10.0,20.0,14.1,US-NCSS,Northern America,Northern America,Unknown
+-102.2145801,24.38552407,0.0,22.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-105.432827,22.63204945,0.0,22.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+17.866667,7.133333,9.0,33.0,0.0,AF-AfSP,Middle Africa,Africa,Unknown
+-103.9851419,23.53178565,11.0,45.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+79.2,21.16666667,15.0,30.0,0.4,WD-WISE,Southern Asia,Asia,Unknown
+13.964598,12.286692,0.0,35.0,0.3,AF-AfSP,Western Africa,Africa,Unknown
+-116.8730545,32.5699997,10.0,20.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-100.6897559,19.78866976,0.0,20.0,0.4,MX-INEGI,Central America,Northern America,Unknown
+-108.3630019,29.156003,3.0,47.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+146.0848348,-22.72391758,11.0,28.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+42.899165,0.415271,25.0,50.0,4.7,WD-WISE,Eastern Africa,Africa,Unknown
+137.7732826,-33.74736986,10.0,22.0,0.7,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-118.5266647,47.8280563,25.0,36.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-105.8006848,22.80836326,0.0,29.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-98.91253812,21.07773434,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+139.6298401,-36.04160952,10.0,20.0,0.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-100.7426627,19.89477658,13.0,50.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-101.2557076,28.13008316,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-105.0402253,22.05689926,20.0,50.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+175.7833414,-37.96666423,0.0,20.0,0.1,WD-WISE,Australia and New Zealand,Oceania,Unknown
+-102.3038864,44.5833321,8.0,23.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-113.9963913,41.3291664,25.0,58.0,1.3,US-NCSS,Northern America,Northern America,Unknown
+22.22,58.22,0.0,150.0,0.0,EU-SOTER,Northern Europe,Europe,Unknown
+-100.3782541,46.3135808,23.0,41.0,19.8,US-NCSS,Northern America,Northern America,Unknown
+113.660338,-24.845397,10.0,75.0,42.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-111.6865005,39.5567017,18.0,42.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+34.18,-0.15,0.0,28.0,0.1,KE-SOTER,Eastern Africa,Africa,Unknown
+-112.7477798,31.8883324,5.0,25.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-100.896388,25.45944235,11.0,22.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-84.3958359,32.001667,0.0,22.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-100.0961842,25.02945834,0.0,29.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-101.1837348,19.82319818,0.0,28.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+75.0,22.7166672,0.0,20.0,0.5,US-NCSS,Southern Asia,Asia,Unknown
+-111.0409775,39.20901871,20.0,35.0,4.7,US-NCSS,Northern America,Northern America,Unknown
+138.9515572,-34.99495794,10.0,25.0,0.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-115.694725,46.4547234,20.0,36.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-55.41666667,-31.41666667,22.0,33.0,0.1,WD-WISE,South America,South America,Unknown
+15.07970047,-17.47190094,0.0,22.0,5.2,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-115.7811111,36.3733333,24.0,35.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+116.9166667,28.21666667,22.0,45.0,0.0,WD-WISE,Eastern Asia,Asia,Unknown
+-97.06659698,48.97476578,18.0,27.0,2.7,US-NCSS,Northern America,Northern America,Unknown
+145.6841524,-23.7056058,7.0,60.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-100.2062269,25.37360541,2.0,20.0,0.5,MX-INEGI,Central America,Northern America,Unknown
+-60.05277778,-33.68055556,13.0,27.0,0.1,WD-WISE,South America,South America,Unknown
+-60.7887764,-38.2347488,18.0,38.0,4.3,US-NCSS,South America,South America,Unknown
+-96.6480484,46.2529984,0.0,20.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+5.576111111,51.56972222,19.0,25.0,0.1,WD-WISE,Western Europe,Europe,Unknown
+-113.0133362,44.2883339,8.0,23.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-114.7303009,39.0346642,10.0,42.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-111.6805573,33.2486115,23.0,36.0,3.1,US-NCSS,Northern America,Northern America,Unknown
+31.383333,-11.866667,8.0,23.0,0.0,AF-AfSP,Eastern Africa,Africa,Unknown
+-90.6908179,16.50507344,13.0,30.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-111.6344483,25.8064677,0.0,23.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-119.2123795,39.6971169,10.0,33.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-100.7904556,27.02393582,0.0,30.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-121.8255539,38.3258324,15.0,36.0,2.3,US-NCSS,Northern America,Northern America,Unknown
+-97.3886111,48.6880556,20.0,38.0,4.5,US-NCSS,Northern America,Northern America,Unknown
+-56.53333333,-34.75,0.0,25.0,0.1,WD-WISE,South America,South America,Unknown
+-111.6158371,45.8991661,15.0,48.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-110.1293781,29.81805574,0.0,20.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+-99.54874197,23.27799159,25.0,52.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.4913864,41.1519432,15.0,25.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-105.3821525,20.37533341,9.0,27.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+115.770835,-33.350348,10.0,20.0,4.8,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-92.81121729,15.20045222,4.0,33.0,20.0,MX-INEGI,Central America,Northern America,Unknown
+-107.2937088,40.4535828,5.0,23.0,0.9,WD-WISE,Northern America,Northern America,Unknown
+-109.572743,23.21865353,0.0,26.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-112.322242,29.66418719,0.0,25.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-112.533446,29.80237515,0.0,56.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-110.184707,31.02633445,18.0,27.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-110.6827774,47.7738876,13.0,33.0,0.5,WD-WISE,Northern America,Northern America,Unknown
+-106.5007583,25.02911971,7.0,31.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+102.3333333,2.166666667,10.0,110.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+-98.9486084,38.0577774,23.0,30.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-122.1083298,46.2333336,19.0,31.0,0.0,US-NCSS,Northern America,Northern America,Unknown
+-109.9336296,27.93475095,13.0,40.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-108.7164917,36.64863205,5.0,25.0,12.8,US-NCSS,Northern America,Northern America,Unknown
+-105.4745116,30.6446602,22.0,44.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-66.9627778,18.0177778,18.0,43.0,5.6,US-NCSS,Caribbean,Northern America,Unknown
+-97.4357224,46.0961952,10.0,25.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+144.3810195,-21.08766143,3.0,40.0,2.9,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-111.9405881,30.62535126,17.0,34.0,10.0,MX-INEGI,Central America,Northern America,Unknown
+145.410298,-22.38396272,5.0,120.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-98.1415863,30.1123047,12.0,31.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+34.97,0.03,22.0,54.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-100.9560614,19.97005944,0.0,23.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-75.6651917,37.8215141,10.0,20.0,0.0,US-NCSS,Northern America,Northern America,Unknown
+146.026755,-23.21674377,6.0,50.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+146.0858115,-24.13704948,0.0,30.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-115.6151352,46.4594994,0.0,43.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+80.2256012,28.78738022,15.0,30.0,0.2,NP-SOTER,Southern Asia,Asia,Unknown
+-97.77135468,27.37009239,15.0,28.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-100.8800759,22.2937943,22.0,37.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-103.650465,26.13779381,19.0,36.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+144.7551256,-22.09559206,5.0,47.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-102.9838889,48.9541667,9.0,23.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+138.8927304,-34.96059381,0.0,23.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+116.927649,-31.642842,20.0,40.0,1.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-112.0502777,41.7716675,0.0,27.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-120.2515312,36.4074479,0.0,26.0,2.1,US-NCSS,Northern America,Northern America,Unknown
+-113.2558365,37.1549988,18.0,37.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+116.911765,-30.578103,22.0,32.0,8.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-114.2680588,47.916111,25.0,53.0,0.1,WD-WISE,Northern America,Northern America,Unknown
+-71.4815292,-30.2757225,8.0,28.0,1.1,US-NCSS,South America,South America,Unknown
+-107.4672257,31.27048171,12.0,42.0,10.0,MX-INEGI,Central America,Northern America,Unknown
+-102.6335361,22.17176186,0.0,25.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+40.310714,-10.493008,0.0,33.0,0.1,AF-AfSP,Eastern Africa,Africa,Unknown
+-101.4311523,41.7040825,19.0,35.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-97.8644409,40.3661118,17.0,30.0,0.1,WD-WISE,Northern America,Northern America,Unknown
+81.31284332,29.03153038,20.0,45.0,0.2,NP-SOTER,Southern Asia,Asia,Unknown
+-102.8597222,48.545,25.0,38.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+140.244271,-34.89762776,11.0,23.0,0.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+128.893708,-15.46737,0.0,30.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-114.7885465,29.74783465,24.0,51.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-116.4065857,45.5221672,24.0,34.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-121.4000015,39.1375008,23.0,41.0,0.1,WD-WISE,Northern America,Northern America,Unknown
+-89.65017592,19.08204858,20.0,42.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+18.9333324,47.4000015,0.0,20.0,1.1,US-NCSS,Eastern Europe,Europe,Unknown
+-113.9786515,28.87672426,24.0,49.0,2.6,MX-INEGI,Central America,Northern America,Unknown
+138.5568705,-32.65158894,14.0,30.0,1.9,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-112.1505585,38.6413879,10.0,30.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-111.1544418,43.6361122,10.0,25.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-101.9552765,40.0172234,18.0,48.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+35.027778,-4.605556,0.0,25.0,0.5,AF-AfSP,Eastern Africa,Africa,Unknown
+-100.6769409,43.9269447,4.0,20.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-100.2955264,17.28297562,15.0,56.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-120.828871,43.1931727,8.0,28.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-97.12522879,15.91184492,19.0,39.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+18.41469955,-17.3973999,0.0,20.0,25.6,NA-NAMSOTER,Southern Africa,Africa,Unknown
+35.5,15.25,0.0,30.0,0.7,AF-AfSP,Northern Africa,Africa,Unknown
+-106.3419272,30.62156604,0.0,20.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-112.6650009,45.9866676,13.0,28.0,5.4,US-NCSS,Northern America,Northern America,Unknown
+1.666667,13.733333,22.0,56.0,0.1,WD-WISE,Western Africa,Africa,Unknown
+-105.2690244,23.85699758,5.0,28.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+103.1833333,1.933333333,15.0,45.0,0.1,WD-WISE,South-Eastern Asia,Asia,Unknown
+-101.8324461,22.40527245,16.0,26.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-90.85289563,19.03658288,0.0,34.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-97.5094876,48.3533115,0.0,30.0,1.3,US-NCSS,Northern America,Northern America,Unknown
+-109.9700012,35.5574989,10.0,23.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-115.7408371,46.2695847,0.0,25.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-102.9952774,43.1830559,18.0,28.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+35.159722,-4.405556,6.0,20.0,0.4,WD-WISE,Eastern Africa,Africa,Unknown
+14.22077,12.312243,15.0,50.0,0.3,AF-AfSP,Western Africa,Africa,Unknown
+-102.9005103,28.21828197,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+145.9919573,-23.95916534,5.0,200.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-105.2874083,22.04843885,0.0,20.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-98.00791093,24.12815877,19.0,40.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-98.00710191,19.82536635,0.0,27.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-88.8722945,17.89901847,18.0,32.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+146.1123857,-24.31002925,6.0,125.0,0.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-100.3129032,24.76667041,18.0,28.0,3.4,MX-INEGI,Central America,Northern America,Unknown
+-98.6278992,30.4757557,13.0,24.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-5.6694446,11.4455557,10.0,20.0,0.0,WD-WISE,Western Africa,Africa,Unknown
+3.333333333,46.56666667,0.0,24.0,0.1,WD-WISE,Western Europe,Europe,Unknown
+-71.83777778,-17.11583333,0.0,25.0,1.5,LAC-SOTER,South America,South America,Unknown
+-99.230835,38.8699989,18.0,30.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+29.8938885,30.8702774,25.0,43.0,2.2,US-NCSS,Northern Africa,Africa,Unknown
+-103.819698,29.22786006,19.0,29.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-98.3211136,38.1788902,10.0,31.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-95.1999969,29.0825005,10.0,48.0,25.8,US-NCSS,Northern America,Northern America,Unknown
+-99.7897186,29.794445,20.0,38.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+2.083333,13.533333,23.0,51.0,0.1,WD-WISE,Western Africa,Africa,Unknown
+-96.8512497,40.6850014,0.0,26.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+4.866667,6.783333,14.0,25.0,0.1,WD-WISE,Western Africa,Africa,Unknown
+-99.48980245,24.94245217,20.0,52.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-108.1544242,25.12432537,0.0,51.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-80.63972222,-5.84,5.0,20.0,40.0,LAC-SOTER,South America,South America,Unknown
+138.8671866,-35.49880257,10.0,45.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+15.7522,-17.6194,10.0,30.0,31.5,NA-NAMSOTER,Southern Africa,Africa,Unknown
+25.13,58.42,0.0,200.0,0.0,EU-SOTER,Northern Europe,Europe,Unknown
+-114.2244415,37.7969093,18.0,30.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-102.2443748,27.23521717,0.0,26.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-79.90833333,-3.2875,0.0,25.0,0.4,LAC-SOTER,South America,South America,Unknown
+70.5614624,52.59713364,0.0,25.0,0.059753332,KZ-SMSD,Central Asia,Asia,Unknown
+35.1403,1.2,18.0,55.0,0.1,KE-SOTER,Eastern Africa,Africa,Unknown
+-91.94196882,16.70742811,19.0,51.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-102.9838889,48.9536111,15.0,40.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+18.07972222,49.72,0.0,21.0,0.0,EU-SOTER,Eastern Europe,Europe,Unknown
+-98.83836899,18.97396895,0.0,26.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+21.3561,-18.0169,0.0,23.0,4.2,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-102.405822,45.9627385,13.0,23.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-96.6802521,46.2010841,18.0,27.0,2.1,US-NCSS,Northern America,Northern America,Unknown
+13.13,50.18972222,0.0,22.0,0.0,EU-SOTER,Eastern Europe,Europe,Unknown
+-110.3932379,27.41815941,5.0,20.0,9.2,MX-INEGI,Central America,Northern America,Unknown
+37.0213,0.0666,5.0,20.0,0.2,KE-SOTER,Eastern Africa,Africa,Unknown
+-98.6978607,27.9247227,18.0,31.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-106.2053626,28.85177169,0.0,30.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-101.6949158,33.8445282,17.0,48.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+15.43560028,-17.6128006,16.0,58.0,1.5,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-112.1498945,26.15760606,15.0,40.0,3.0,MX-INEGI,Central America,Northern America,Unknown
+1.732778,13.113889,7.0,20.0,0.1,WD-WISE,Western Africa,Africa,Unknown
+21.255,-17.9739,24.0,80.0,4.6,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-108.7742996,39.2649765,18.0,31.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-109.2836227,46.60472488,10.0,34.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+107.6166667,-6.833333333,16.0,40.0,0.1,WD-WISE,South-Eastern Asia,Asia,Unknown
+133.6639339,-31.94421978,10.0,50.0,0.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+145.3718262,-22.30910567,4.0,75.0,1.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+27.233333,-29.816667,12.0,52.0,0.3,US-NCSS,Southern Africa,Africa,Unknown
+146.6342172,-23.45973271,2.0,23.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-100.0494905,23.94285799,0.0,20.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-96.98306934,18.15316065,23.0,36.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-96.9535828,30.9818115,12.0,35.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+115.857275,-33.033689,10.0,20.0,1.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+39.72,-3.78,0.0,25.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-117.9671631,45.2643051,8.0,25.0,5.8,US-NCSS,Northern America,Northern America,Unknown
+-73.4833298,4.0500002,23.0,36.0,0.1,WD-WISE,South America,South America,Unknown
+98.66666667,2.266666667,0.0,20.0,0.1,WD-WISE,South-Eastern Asia,Asia,Unknown
+-102.5047642,20.84208965,18.0,38.0,1.9,MX-INEGI,Central America,Northern America,Unknown
+-101.7724991,43.7352791,8.0,36.0,1.4,US-NCSS,Northern America,Northern America,Unknown
+-110.7900319,31.26048348,0.0,20.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-103.8392261,20.0683486,21.0,40.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+144.854561,-21.61490959,5.0,61.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-103.4739151,45.84801102,0.0,86.0,10.0,US-NCSS,Northern America,Northern America,Unknown
+-117.4942474,37.539669,15.0,20.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-146.4166718,67.1666641,20.0,28.0,1.3,US-NCSS,Northern America,Northern America,Unknown
+-121.3666687,44.2000008,10.0,25.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-72.02999878,-14.0,0.0,20.0,0.4,LAC-SOTER,South America,South America,Unknown
+-114.2980576,40.3452797,23.0,63.0,5.2,US-NCSS,Northern America,Northern America,Unknown
+-111.1494446,42.0391655,20.0,53.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-99.0336075,32.9261093,12.0,27.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-97.7857132,27.3681469,18.0,30.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+37.790278,-0.461111,10.0,25.0,0.1,KE-SOTER,Eastern Africa,Africa,Unknown
+-98.3792419,36.7361755,0.0,20.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-171.5813904,-13.9033337,11.0,35.0,0.1,WD-WISE,Polynesia,Oceania,Unknown
+12.8,0.516667,20.0,50.0,0.0,WD-WISE,Middle Africa,Africa,Unknown
+16.01,50.70972222,0.0,25.0,0.1,EU-SOTER,Eastern Europe,Europe,Unknown
+-91.64578443,18.19205871,18.0,52.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-84.3907394,42.8277855,0.0,23.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+35.13,-0.23,15.0,30.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-110.9505997,48.4513016,10.0,28.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-114.7366541,30.87976939,20.0,35.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-72.6613694,42.6304972,0.0,22.0,1.8,US-NCSS,Northern America,Northern America,Unknown
+-97.27828371,19.76993319,18.0,38.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+27.233333,-29.816667,12.0,52.0,0.3,WD-WISE,Southern Africa,Africa,Unknown
+-98.83405709,25.71389569,19.0,42.0,5.7,MX-INEGI,Central America,Northern America,Unknown
+98.95555556,19.12944444,12.0,25.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+-103.0496777,25.77544901,25.0,50.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-71.83861111,-16.46166667,24.0,41.0,1.2,WD-WISE,South America,South America,Unknown
+-60.66805556,-33.86388889,25.0,34.0,0.1,WD-WISE,South America,South America,Unknown
+-96.7564697,28.7199993,12.0,44.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+139.7369901,-35.71164929,14.0,40.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-100.0824133,27.94717037,11.0,34.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-120.6813889,45.5061111,0.0,20.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-100.4559076,20.3740644,16.0,36.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+102.0999985,15.1333332,15.0,23.0,2.0,US-NCSS,South-Eastern Asia,Asia,Unknown
+-101.5566635,37.0186119,8.0,20.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-96.8391647,47.2669449,10.0,51.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-91.5438919,32.8052788,25.0,53.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-90.46566207,19.62249215,0.0,23.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+-108.4619446,43.0750008,25.0,43.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-119.0824966,47.1444435,0.0,20.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-89.92029382,20.34624509,0.0,21.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+140.0139849,-35.43518792,23.0,35.0,0.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-49.0999985,-16.4833336,20.0,35.0,0.0,WD-WISE,South America,South America,Unknown
+-79.7497711,36.333416,0.0,20.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-101.5849915,48.93663788,15.0,25.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-103.9964294,45.3471756,12.0,25.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-101.4938889,35.4150009,8.0,30.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-110.5302234,28.08243391,0.0,22.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-98.9281921,44.602478,15.0,28.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-92.20859641,17.03090503,17.0,25.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+1.352222,13.137778,12.0,29.0,0.1,WD-WISE,Western Africa,Africa,Unknown
+-98.1967661,37.9126838,15.0,34.0,1.5,US-NCSS,Northern America,Northern America,Unknown
+-117.1538925,33.9500008,0.0,20.0,2.7,US-NCSS,Northern America,Northern America,Unknown
+34.65,-2.266667,2.0,25.0,0.8,AF-AfSP,Eastern Africa,Africa,Unknown
+-110.5496229,29.70717295,0.0,21.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-119.1958313,38.9261093,18.0,30.0,3.3,US-NCSS,Northern America,Northern America,Unknown
+-100.6311111,43.3172226,15.0,25.0,2.2,US-NCSS,Northern America,Northern America,Unknown
+144.7492487,-20.7393958,4.0,150.0,0.7,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+40.166667,9.016667,0.0,26.0,0.5,WD-WISE,Eastern Africa,Africa,Unknown
+117.784802,-31.415419,0.0,100.0,2.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-103.3756882,21.95087116,15.0,32.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-98.32974518,20.76247604,0.0,20.0,0.7,MX-INEGI,Central America,Northern America,Unknown
+-102.1110164,24.76680252,23.0,52.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+0.833333333,51.16666667,22.0,35.0,0.1,WD-WISE,Northern Europe,Europe,Unknown
+-98.2385278,47.6142778,0.0,30.0,2.8,US-NCSS,Northern America,Northern America,Unknown
+139.6172314,-33.19134157,10.0,35.0,6.8,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-99.58960486,21.90411817,18.0,40.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-101.3085281,18.53913736,0.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-97.736612,23.81425406,0.0,45.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-110.9619446,41.0734711,20.0,30.0,3.3,US-NCSS,Northern America,Northern America,Unknown
+42.823884,0.27916,25.0,75.0,2.8,WD-WISE,Eastern Africa,Africa,Unknown
+-88.69431628,18.83557801,19.0,44.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+13.855353,12.308046,0.0,40.0,0.4,AF-AfSP,Western Africa,Africa,Unknown
+-87.92686054,20.65702902,15.0,39.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+139.0362382,-34.98148202,25.0,55.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+13.822986,12.364455,0.0,27.0,0.7,AF-AfSP,Western Africa,Africa,Unknown
+-103.9690247,43.9912491,14.0,32.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+113.676701,-24.8979,0.0,25.0,54.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-117.4383316,40.9366684,10.0,22.0,17.8,US-NCSS,Northern America,Northern America,Unknown
+-103.7190013,23.31064395,0.0,30.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-107.4133534,27.94828905,0.0,23.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-101.4886932,36.1278038,0.0,25.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-101.1513334,21.37890936,18.0,33.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-99.85363802,17.1796127,25.0,53.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-112.1683927,26.37319704,20.0,53.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-101.6616908,29.28476773,0.0,21.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-96.4711227,31.323864,25.0,41.0,3.8,US-NCSS,Northern America,Northern America,Unknown
+-96.1800003,37.6422234,13.0,24.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+138.6711357,-35.20580354,13.0,24.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+17.61330032,-17.50429916,0.0,25.0,1.9,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-97.4658135,48.4833491,0.0,30.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+31.39,-28.655,0.0,30.0,0.0,AF-AfSP,Southern Africa,Africa,Unknown
+-118.1344452,40.435833,5.0,20.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+144.7385893,-22.35773625,6.0,65.0,1.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+83.0,27.7,23.0,38.0,0.1,WD-WISE,Southern Asia,Asia,Unknown
+15.92609978,-17.51689911,0.0,25.0,2.3,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-104.315352,19.26124157,6.0,32.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-106.526947,44.3341675,12.0,41.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-92.72931845,16.4119623,16.0,42.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-100.3910133,26.08436656,22.0,39.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.9299708,23.6767397,0.0,20.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-110.9243559,29.50185483,20.0,35.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-104.5063741,19.58455496,20.0,38.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-112.3616638,38.0177765,19.0,36.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+5.741944444,52.03861111,6.0,35.0,0.1,WD-WISE,Western Europe,Europe,Unknown
+-105.3738579,24.90199177,20.0,39.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+35.13,-10.89,18.0,40.0,0.1,SAF-SOTER,Eastern Africa,Africa,Unknown
+-113.506609,27.93368677,9.0,48.0,10.0,MX-INEGI,Central America,Northern America,Unknown
+-105.1526226,23.92422066,9.0,32.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-96.1916656,37.6541672,24.0,38.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-115.7060522,31.6816384,17.0,48.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-95.95321643,18.70673996,14.0,35.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+-118.1388855,36.7594452,20.0,43.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-98.74182439,18.85160975,0.0,24.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-99.43927,37.2075539,20.0,46.0,1.6,US-NCSS,Northern America,Northern America,Unknown
+-112.4622192,34.9075012,10.0,33.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-105.941014,30.08205519,21.0,45.0,0.6,MX-INEGI,Central America,Northern America,Unknown
+-90.83355483,16.64997796,0.0,35.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.1767194,25.92646303,0.0,23.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+160.6016693,-77.84866333,10.0,25.0,39.3,US-NCSS,Antarctica,Antarctica,Unknown
+17.86520004,-19.76619911,11.0,32.0,18.7,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-105.9093952,30.87950683,18.0,59.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+100.0072222,19.95361111,20.0,38.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+138.744585,-35.19096808,16.0,30.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-117.1344452,32.8466682,25.0,43.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+147.0707855,-26.23542595,15.0,60.0,8.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-106.0287597,27.70243922,0.0,20.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+35.051667,-4.443056,25.0,40.0,0.3,WD-WISE,Eastern Africa,Africa,Unknown
+-101.2299369,24.64788662,16.0,59.0,4.2,MX-INEGI,Central America,Northern America,Unknown
+-99.51883062,17.15627058,20.0,33.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-102.4891663,41.042778,13.0,18.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-111.9708328,40.6061096,23.0,41.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-115.7456987,30.10917879,21.0,44.0,1.3,MX-INEGI,Central America,Northern America,Unknown
+160.2901611,-77.5465851,20.0,45.0,18.9,US-NCSS,Antarctica,Antarctica,Unknown
+-98.01714381,25.10474974,15.0,93.0,6.2,MX-INEGI,Central America,Northern America,Unknown
+-105.8976853,26.93074924,0.0,29.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-96.8861084,31.4761105,12.0,30.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+138.3074625,-32.81104578,10.0,21.0,0.7,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-62.3273048,-38.1612778,0.0,28.0,0.9,US-NCSS,South America,South America,Unknown
+-97.1130524,47.8616676,0.0,30.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-99.6758066,47.250418,15.0,30.0,17.2,US-NCSS,Northern America,Northern America,Unknown
+34.924832,-2.663149,20.0,42.0,3.0,AF-AfSP,Eastern Africa,Africa,Unknown
+-105.0402253,22.05689926,0.0,20.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+15.36919975,-17.52249908,0.0,23.0,2.5,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-102.3731881,29.29134029,18.0,43.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+2.890556,13.263056,0.0,30.0,0.1,AF-AfSP,Western Africa,Africa,Unknown
+-102.4856585,18.24788229,12.0,45.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.8861771,47.9844017,20.0,61.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-96.64289198,17.0558444,18.0,50.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+34.702222,-0.884722,0.0,20.0,0.1,WD-WISE,Eastern Africa,Africa,Unknown
+-111.0022202,32.2658348,25.0,46.0,4.6,US-NCSS,Northern America,Northern America,Unknown
+-120.3333359,36.6319427,20.0,38.0,7.8,US-NCSS,Northern America,Northern America,Unknown
+-109.9493413,28.27901815,25.0,48.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-101.152897,21.08783127,13.0,25.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-99.79447411,21.0589637,11.0,38.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+35.45,-4.56667,0.0,30.0,0.5,AF-AfSP,Eastern Africa,Africa,Unknown
+-110.0544357,47.3824158,15.0,32.0,3.5,US-NCSS,Northern America,Northern America,Unknown
+15.6339,-17.7825,19.0,52.0,48.2,SAF-SOTER,Southern Africa,Africa,Unknown
+34.960938,-2.751302,5.0,24.0,0.7,AF-AfSP,Eastern Africa,Africa,Unknown
+-101.6945038,33.8443871,0.0,23.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-99.46328037,17.48700881,22.0,48.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-98.2041702,43.5272217,23.0,30.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-114.0609137,28.30168441,0.0,22.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+146.0096932,-23.51304357,12.0,70.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-106.5313072,30.37707961,24.0,120.0,10.0,MX-INEGI,Central America,Northern America,Unknown
+139.8256546,-37.14782746,0.0,40.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-102.0981727,26.71459971,16.0,52.0,8.8,MX-INEGI,Central America,Northern America,Unknown
+-114.4287491,36.3862762,18.0,47.0,2.9,US-NCSS,Northern America,Northern America,Unknown
+-106.7481473,23.9532205,0.0,23.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-102.9377747,43.976387,15.0,33.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-92.34498107,14.86313785,24.0,28.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-72.5190944,42.3938778,23.0,33.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-89.10752158,20.07026369,22.0,37.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-110.4800295,27.70217175,15.0,25.0,2.9,MX-INEGI,Central America,Northern America,Unknown
+-99.01452666,21.09048034,0.0,20.0,0.5,MX-INEGI,Central America,Northern America,Unknown
+1.738611,13.110833,15.0,47.0,0.1,AF-AfSP,Western Africa,Africa,Unknown
+-72.6933365,44.4947205,11.0,21.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-113.7916641,44.2374992,18.0,31.0,1.2,US-NCSS,Northern America,Northern America,Unknown
+-102.9560477,20.77191734,17.0,50.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-106.8758134,24.38703953,8.0,36.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-114.0463333,32.86452484,25.0,66.0,6.4,US-NCSS,Northern America,Northern America,Unknown
+-94.82252651,16.78096359,20.0,36.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-111.6757897,25.20132548,21.0,52.0,20.0,MX-INEGI,Central America,Northern America,Unknown
+28.0,-14.003046,3.0,38.0,0.4,AF-AfSP,Eastern Africa,Africa,Unknown
+-117.7342987,40.9868355,15.0,51.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-117.9780579,33.6944427,18.0,40.0,1.2,US-NCSS,Northern America,Northern America,Unknown
+26.1075001,-20.3097229,24.0,42.0,1.3,WD-WISE,Southern Africa,Africa,Unknown
+-67.0455551,18.039444,0.0,23.0,0.6,US-NCSS,Caribbean,Northern America,Unknown
+-102.4823074,33.8186378,13.0,25.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+140.244271,-34.89762776,23.0,30.0,1.7,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-103.1402876,18.4068716,10.0,31.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-90.69294983,18.05314227,0.0,38.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+113.716953,-24.724799,10.0,55.0,9.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+146.6342172,-23.45973271,23.0,112.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-95.4499969,42.8666649,17.0,30.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-103.8705033,19.15771009,24.0,31.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-110.8133683,30.86895377,10.0,30.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-107.1027858,24.10982517,0.0,28.0,8.5,MX-INEGI,Central America,Northern America,Unknown
+-105.4418558,25.05475144,23.0,52.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-115.7036514,38.3796692,18.0,35.0,5.3,US-NCSS,Northern America,Northern America,Unknown
+115.734635,-33.408608,10.0,20.0,9.8,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+145.6090132,-23.69379555,7.0,45.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-115.5223197,29.7641625,0.0,20.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+140.7129295,-34.20028693,22.0,35.0,1.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+128.857789,-15.427245,0.0,30.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+102.0166667,23.6,17.0,40.0,0.1,WD-WISE,Eastern Asia,Asia,Unknown
+-115.6243333,36.2988333,4.0,25.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-91.69902039,32.31684113,25.0,48.0,1.2,US-NCSS,Northern America,Northern America,Unknown
+-116.4939961,31.43891623,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-82.96673584,39.61670303,10.0,25.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-112.8797745,31.49074729,20.0,34.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-108.6224213,45.7827034,23.0,36.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-121.9471757,39.5915398,0.0,20.0,1.3,US-NCSS,Northern America,Northern America,Unknown
+-102.2196571,27.63127839,17.0,33.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-105.0924518,21.10333677,0.0,23.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-111.3067072,25.60021553,20.0,45.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+37.99,-2.85,0.0,25.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-122.4033356,37.2291679,15.0,36.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-107.5615234,43.16077805,15.0,27.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+81.39180756,28.4046402,15.0,40.0,0.1,NP-SOTER,Southern Asia,Asia,Unknown
+21.57972222,56.08,10.0,22.0,1.0,EU-SOTER,Northern Europe,Europe,Unknown
+-108.7590581,28.65765767,0.0,27.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+146.1191281,-22.04534224,0.0,200.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-107.4596525,28.31025377,21.0,48.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-111.1072235,43.7816658,18.0,25.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-93.26216401,16.27762764,20.0,30.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+139.8938869,-36.07561978,25.0,50.0,21.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-54.66666667,-32.33333333,0.0,26.0,0.1,WD-WISE,South America,South America,Unknown
+-84.7340851,43.3497238,23.0,61.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-92.03144893,15.61161695,18.0,40.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+140.1055127,-36.92593706,15.0,35.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+101.6166687,12.6833334,18.0,53.0,48.2,US-NCSS,South-Eastern Asia,Asia,Unknown
+-108.276117,28.65803534,20.0,57.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-105.422226,44.0888901,20.0,33.0,44.7,US-NCSS,Northern America,Northern America,Unknown
+-107.458809,24.79930454,20.0,60.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+144.5514583,-21.09759438,8.0,105.0,0.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-108.3309555,39.9469147,10.0,26.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-97.6355591,35.3944435,25.0,46.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-100.4461111,48.8972222,23.0,30.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-97.7855805,48.4742724,0.0,30.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-79.3916702,9.0611115,0.0,22.0,0.1,WD-WISE,Central America,Northern America,Unknown
+-101.882,31.546,20.0,43.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+144.7914074,-20.18640809,3.0,25.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+115.884977,-33.053242,10.0,20.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+113.742573,-24.833982,10.0,40.0,36.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+139.1186654,-34.63296603,15.0,30.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-107.5893989,25.31468194,25.0,38.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+2.540278,13.650833,25.0,35.0,0.1,AF-AfSP,Western Africa,Africa,Unknown
+15.67609978,-17.74169922,25.0,40.0,33.7,NA-NAMSOTER,Southern Africa,Africa,Unknown
+15.85830021,-17.74360085,10.0,25.0,1.2,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-116.3555523,32.17754173,0.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+115.837826,-33.140572,10.0,20.0,3.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+135.7211392,-34.12319948,20.0,38.0,0.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-96.4031677,28.8798885,10.0,26.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+13.988318,12.348294,0.0,28.0,0.2,AF-AfSP,Western Africa,Africa,Unknown
+-108.699646,45.740757,0.0,23.0,1.1,US-NCSS,Northern America,Northern America,Unknown
+-97.85390297,23.32541572,12.0,50.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-112.5886364,29.92389511,25.0,60.0,0.4,MX-INEGI,Central America,Northern America,Unknown
+146.4921554,-22.83293928,22.0,142.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+101.2249985,-1.2305557,13.0,21.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+-92.6333313,46.6333351,21.0,37.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+34.68333333,31.66666667,0.0,40.0,0.9,WD-WISE,Western Asia,Asia,Unknown
+-114.3071025,27.51825903,16.0,29.0,3.5,MX-INEGI,Central America,Northern America,Unknown
+-111.9266993,26.86659007,0.0,22.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-95.6822205,29.9352779,15.0,54.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-110.3449642,28.73576154,14.0,54.0,3.5,MX-INEGI,Central America,Northern America,Unknown
+-14.7166672,17.5499992,0.0,26.0,0.0,WD-WISE,Western Africa,Africa,Unknown
+-104.0828026,24.46170415,11.0,47.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-111.759563,25.71299105,13.0,33.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+1.838056,13.635833,19.0,26.0,0.0,WD-WISE,Western Africa,Africa,Unknown
+-104.9557856,28.48032237,0.0,36.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-83.70833333,10.56666667,17.0,24.0,0.0,LAC-SOTER,Central America,Northern America,Unknown
+-103.8077469,40.4361115,12.0,29.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-103.3211594,22.31336359,0.0,30.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+2.275,13.223333,18.0,30.0,0.1,WD-WISE,Western Africa,Africa,Unknown
+-102.1647186,45.9988899,17.0,28.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+128.893763,-15.45154,0.0,30.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+33.685,-25.073,10.0,23.0,0.1,SAF-SOTER,Eastern Africa,Africa,Unknown
+-110.4100113,40.37000656,22.0,28.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-107.8352335,29.84733174,10.0,29.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.5377808,42.9025002,10.0,30.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-99.9883347,41.8113899,25.0,36.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-103.1183319,43.873333,10.0,28.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-104.3326425,26.38161562,0.0,26.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+-115.3381904,29.61394076,25.0,75.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-66.8769455,17.9838886,13.0,48.0,1.0,US-NCSS,Caribbean,Northern America,Unknown
+-104.9772126,30.58044914,0.0,29.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-98.4722748,39.2698059,18.0,38.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-109.8180542,38.8272209,17.0,21.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+144.9427559,-20.79086156,8.0,200.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-105.3304211,23.82521605,15.0,29.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+32.91028,-24.47445,0.0,20.0,0.3,SAF-SOTER,Eastern Africa,Africa,Unknown
+-109.5024356,27.24317745,12.0,30.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-103.1568777,20.12236838,22.0,42.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-99.61279768,25.76626047,24.0,52.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.5941696,47.1986122,5.0,22.0,1.1,US-NCSS,Northern America,Northern America,Unknown
+-112.4372801,30.38917671,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-104.0195694,40.7490845,21.0,43.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-113.1216219,26.86294095,0.0,20.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-112.5619147,30.32622969,0.0,37.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+138.8918299,-34.50113899,14.0,43.0,1.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-109.7591691,23.49763254,0.0,26.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-91.83132135,17.5295382,11.0,24.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-121.5452805,37.5127792,15.0,30.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-113.4569473,37.0552788,10.0,33.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+39.2999992,35.9000015,20.0,55.0,2.2,US-NCSS,Western Asia,Asia,Unknown
+128.93059,-15.401965,0.0,50.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-115.6423645,45.8776817,25.0,51.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-99.37426261,26.20402475,13.0,57.0,3.8,MX-INEGI,Central America,Northern America,Unknown
+36.0,5.0,10.0,90.0,0.2,AF-AfSP,Eastern Africa,Africa,Unknown
+140.691855,-34.32423999,12.0,25.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+35.240859,-15.038455,19.0,48.0,3.2,AF-AfSP,Eastern Africa,Africa,Unknown
+-101.980835,40.2661095,10.0,25.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-93.00160658,17.32280673,23.0,66.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-113.4228102,27.74912165,23.0,51.0,2.5,MX-INEGI,Central America,Northern America,Unknown
+-96.3499985,29.5080547,10.0,25.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-99.1255569,38.3133316,0.0,20.0,0.1,WD-WISE,Northern America,Northern America,Unknown
+-103.1534745,20.39841739,23.0,47.0,1.9,MX-INEGI,Central America,Northern America,Unknown
+-111.3188621,28.90255355,25.0,44.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+14.167474,12.268588,0.0,20.0,0.3,AF-AfSP,Western Africa,Africa,Unknown
+-93.23707036,15.63014724,8.0,34.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-90.7270647,18.2780828,14.0,45.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-112.7633362,46.7733345,10.0,25.0,6.8,WD-WISE,Northern America,Northern America,Unknown
+-106.8238236,30.98226181,7.0,28.0,35.0,MX-INEGI,Central America,Northern America,Unknown
+-103.133899,23.06639628,23.0,45.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-115.0037766,46.8909988,4.0,26.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-105.5908356,43.7133331,25.0,38.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+139.2541147,-34.59801305,10.0,24.0,0.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-101.7074966,48.80830383,15.0,41.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+17.09104156,-23.31897163,25.0,35.0,0.2,WD-WISE,Southern Africa,Africa,Unknown
+-97.6422195,28.0505562,18.0,30.0,1.2,US-NCSS,Northern America,Northern America,Unknown
+-92.14325823,18.06985515,0.0,29.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-102.8397217,38.4975014,21.0,42.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-96.310173,41.0819626,25.0,43.0,1.4,US-NCSS,Northern America,Northern America,Unknown
+138.1399936,-33.83436696,10.0,30.0,0.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-111.1379232,24.32337456,12.0,38.0,3.8,MX-INEGI,Central America,Northern America,Unknown
+-113.8047256,40.0400009,5.0,22.0,4.6,US-NCSS,Northern America,Northern America,Unknown
+-101.454362,19.21602714,0.0,28.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-100.3019792,26.92604551,0.0,20.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-116.3607407,45.574276,24.0,65.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-98.63853375,24.51232447,0.0,20.0,2.5,MX-INEGI,Central America,Northern America,Unknown
+-111.1167145,48.3926888,18.0,30.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+30.616667,-29.8,0.0,20.0,0.1,WD-WISE,Southern Africa,Africa,Unknown
+-111.6817169,33.3106918,20.0,38.0,1.8,US-NCSS,Northern America,Northern America,Unknown
+-108.1587236,29.56295568,0.0,23.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-104.7859234,22.50170942,0.0,49.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+17.766667,7.533333,12.0,29.0,0.1,AF-AfSP,Middle Africa,Africa,Unknown
+-94.5633056,29.8502222,12.0,25.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-120.5222244,44.9217758,23.0,38.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-108.9691696,35.0011101,25.0,41.0,3.4,US-NCSS,Northern America,Northern America,Unknown
+-122.4161148,38.2158318,18.0,36.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+37.366667,-1.872778,20.0,40.0,0.0,WD-WISE,Eastern Africa,Africa,Unknown
+-91.47808046,17.54458649,23.0,41.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-98.8141632,37.8036118,11.0,22.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-104.2680896,22.71028025,22.0,56.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-107.9041672,47.8277779,25.0,41.0,3.7,US-NCSS,Northern America,Northern America,Unknown
+-98.6100006,32.6572227,14.0,35.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-104.8256557,22.3878437,15.0,55.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+9.449999809,37.02000046,12.0,40.0,3.7,TN-SOTER,Northern Africa,Africa,Unknown
+17.81555556,48.31888889,15.0,30.0,0.2,WD-WISE,Eastern Europe,Europe,Unknown
+-91.86976029,17.77015747,24.0,57.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-113.0849609,37.6644211,8.0,23.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+24.18166667,61.41583333,20.0,35.0,0.0,WD-WISE,Northern Europe,Europe,Unknown
+-103.5461135,24.70949116,0.0,23.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+138.2335288,-33.97199906,10.0,25.0,0.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-113.0841634,27.2579039,0.0,23.0,2.5,MX-INEGI,Central America,Northern America,Unknown
+-97.0463889,40.6869444,15.0,30.0,3.4,US-NCSS,Northern America,Northern America,Unknown
+-97.7694444,47.2263889,15.0,25.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-111.4139596,29.39226116,0.0,60.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-115.3380018,32.45675297,15.0,47.0,50.0,MX-INEGI,Central America,Northern America,Unknown
+-102.4822464,33.8212776,20.0,41.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+9.633333,4.633333,9.0,20.0,0.1,WD-WISE,Middle Africa,Africa,Unknown
+-103.7320462,29.05057343,16.0,31.0,27.5,MX-INEGI,Central America,Northern America,Unknown
+-105.456459,44.0855064,10.0,36.0,17.0,US-NCSS,Northern America,Northern America,Unknown
+-102.5362222,43.7304722,20.0,47.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+146.1144389,-23.39782772,22.0,200.0,0.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-111.9309649,25.40917219,0.0,20.0,0.9,MX-INEGI,Central America,Northern America,Unknown
+-122.3925018,37.1894455,0.0,33.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+128.826988,-15.468503,0.0,50.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-89.72611507,17.97608169,8.0,39.0,7.5,MX-INEGI,Central America,Northern America,Unknown
+-95.02747137,17.33951241,14.0,27.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-136.6955556,66.38888889,10.0,25.0,0.1,WD-WISE,Northern America,Northern America,Unknown
+24.98,58.03,0.0,150.0,0.0,EU-SOTER,Northern Europe,Europe,Unknown
+-100.6769409,43.9269447,16.0,45.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-100.7308756,23.57034785,0.0,22.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+124.8125,10.6875,20.0,33.0,0.1,WD-WISE,South-Eastern Asia,Asia,Unknown
+-97.4472198,27.6194439,14.0,34.0,12.0,US-NCSS,Northern America,Northern America,Unknown
+-99.19657937,19.69625217,0.0,24.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-97.9011808,22.52588539,0.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-101.0061882,29.13973865,23.0,42.0,4.5,MX-INEGI,Central America,Northern America,Unknown
+35.41666667,31.91666667,12.0,23.0,22.0,WD-WISE,Western Asia,Asia,Unknown
+-89.68822848,18.52292034,16.0,31.0,2.7,MX-INEGI,Central America,Northern America,Unknown
+-106.3610173,23.32040547,19.0,38.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-79.394722,35.3622208,18.0,36.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-105.9492973,24.74158071,0.0,28.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-105.5566635,44.2402763,25.0,38.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-97.0300827,31.0111275,24.0,49.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-102.9994278,41.23100662,25.0,50.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-99.6897202,33.206665,8.0,20.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-103.8028429,28.15490293,10.0,26.0,3.5,MX-INEGI,Central America,Northern America,Unknown
+-103.9574966,47.9738884,25.0,43.0,1.1,WD-WISE,Northern America,Northern America,Unknown
+-112.1247635,45.8585129,8.0,38.0,6.2,US-NCSS,Northern America,Northern America,Unknown
+-114.2903366,36.7424736,18.0,26.0,4.6,US-NCSS,Northern America,Northern America,Unknown
+-102.0477778,48.4258333,15.0,25.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+146.3520296,-21.7126491,0.0,20.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-98.72453921,23.70065821,0.0,50.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.0535784,24.81674704,0.0,23.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-112.5641632,39.5161095,15.0,36.0,15.6,US-NCSS,Northern America,Northern America,Unknown
+-100.8688889,36.3194427,18.0,58.0,1.4,US-NCSS,Northern America,Northern America,Unknown
+-103.095945,27.90785053,12.0,25.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+-113.0999985,40.5,13.0,23.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+42.844165,0.309993,10.0,25.0,1.5,WD-WISE,Eastern Africa,Africa,Unknown
+-109.1487844,26.37668328,0.0,26.0,4.0,MX-INEGI,Central America,Northern America,Unknown
+-103.0676558,18.71247902,11.0,37.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-97.3524118,48.5347588,0.0,30.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-102.5020708,20.97076888,21.0,36.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-103.8625384,20.8135077,5.0,34.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-104.5216127,20.77375148,16.0,35.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-7.425,5.85,10.0,20.0,0.0,WD-WISE,Western Africa,Africa,Unknown
+145.6203678,-24.06629435,0.0,25.0,0.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+9.5,4.65,6.0,29.0,0.0,WD-WISE,Middle Africa,Africa,Unknown
+10.91777039,36.70444107,18.0,28.0,2.8,US-NCSS,Northern Africa,Africa,Unknown
+-110.9733353,46.4766655,16.0,25.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-107.2804665,28.51954643,13.0,28.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-102.3547952,22.14011184,0.0,24.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-92.64024769,17.57896387,12.0,30.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-103.6586685,44.778389,20.0,30.0,2.6,US-NCSS,Northern America,Northern America,Unknown
+-99.6444473,27.8555565,0.0,20.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-75.867569,37.6121178,13.0,28.0,3.0,US-NCSS,Northern America,Northern America,Unknown
+-101.4291798,20.78995029,0.0,30.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-102.8409452,25.07567498,0.0,25.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+145.5953253,-23.94254791,2.0,45.0,0.9,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-115.523613,33.0149994,0.0,30.0,5.4,US-NCSS,Northern America,Northern America,Unknown
+-119.7399979,38.8738899,13.0,20.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-100.515154,24.94809435,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-120.3955536,41.5616684,23.0,31.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+139.5098985,-35.4097332,25.0,45.0,14.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-110.2213762,23.65466797,19.0,35.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+13.813109,12.29008,0.0,30.0,0.4,AF-AfSP,Western Africa,Africa,Unknown
+-89.4305573,39.1088905,20.0,36.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-104.4180835,21.09173064,20.0,45.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-100.2917764,26.05958634,0.0,31.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-107.2224971,28.31604049,25.0,70.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-107.12743,24.94329866,0.0,23.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-96.73382082,16.74969974,22.0,56.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-115.5347923,32.25249292,0.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-97.3252487,28.1150551,10.0,26.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+1.486389,14.152778,25.0,61.0,0.1,WD-WISE,Western Africa,Africa,Unknown
+-100.1980659,26.6842823,10.0,43.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-108.175929,28.45694315,25.0,70.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-102.8834416,23.94475971,20.0,45.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-89.8955536,30.101944,15.0,41.0,8.4,US-NCSS,Northern America,Northern America,Unknown
+-108.699646,45.740757,0.0,23.0,1.1,WD-WISE,Northern America,Northern America,Unknown
+-97.1107101,47.8612709,0.0,29.0,7.5,US-NCSS,Northern America,Northern America,Unknown
+-101.9631099,20.53081369,0.0,25.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+44.25,5.5,0.0,20.0,1.9,AF-AfSP,Eastern Africa,Africa,Unknown
+-104.2186127,42.0125008,20.0,48.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-102.6465567,24.99078956,21.0,44.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+-100.4461111,48.8972222,15.0,23.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+21.908611,-34.055,20.0,35.0,0.1,AF-AfSP,Southern Africa,Africa,Unknown
+35.020833,-4.601389,14.0,35.0,0.1,WD-WISE,Eastern Africa,Africa,Unknown
+35.3,-4.266667,0.0,30.0,0.5,AF-AfSP,Eastern Africa,Africa,Unknown
+75.96666667,14.95,0.0,30.0,0.4,WD-WISE,Southern Asia,Asia,Unknown
+2.083333,13.533333,18.0,38.0,0.1,WD-WISE,Western Africa,Africa,Unknown
+14.171922,12.290296,20.0,90.0,0.8,AF-AfSP,Western Africa,Africa,Unknown
+18.25670052,-19.51329994,12.0,22.0,11.7,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-103.3616667,48.7925,0.0,23.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+138.8254989,-34.39277684,15.0,21.0,1.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-103.9075,48.3744444,18.0,25.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+146.2262085,-23.59858598,25.0,120.0,0.9,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-105.7551365,30.24855338,0.0,31.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-110.0,32.5061111,20.0,28.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-100.4856241,22.87514207,23.0,45.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+109.5,18.9,11.0,22.0,0.0,WD-WISE,Eastern Asia,Asia,Unknown
+-16.213611,15.624722,8.0,42.0,0.2,SN&GM-SOTER,Western Africa,Africa,Unknown
+139.2353611,-34.86507734,23.0,29.0,1.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-103.6877761,24.35248484,13.0,29.0,0.7,MX-INEGI,Central America,Northern America,Unknown
+-97.4349976,26.121666,20.0,40.0,1.2,US-NCSS,Northern America,Northern America,Unknown
+10.025833,6.298056,17.0,200.0,0.1,AF-AfSP,Middle Africa,Africa,Unknown
+-105.1901283,30.40478637,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-97.51101547,21.07377636,22.0,46.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-104.0358353,47.6505547,19.0,28.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-115.7481003,38.3224449,11.0,26.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-116.4066391,47.6667786,4.0,36.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-100.9773093,22.87244434,11.0,21.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+146.0903529,-22.57515688,7.0,20.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+134.8673324,-33.59787953,15.0,30.0,0.7,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-104.2181352,25.45531539,0.0,26.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-112.8990784,33.3331299,9.0,21.0,21.0,US-NCSS,Northern America,Northern America,Unknown
+128.835211,-15.455093,0.0,20.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+126.1333333,48.71666667,0.0,20.0,0.2,WD-WISE,Eastern Asia,Asia,Unknown
+138.9151462,-34.98351937,20.0,35.0,3.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-96.98544172,17.10580479,24.0,43.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+3.5,6.616667,25.0,60.0,0.1,WD-WISE,Western Africa,Africa,Unknown
+-105.8541195,30.54466629,23.0,52.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.8306938,24.43118082,20.0,31.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+21.1166668,47.3166656,18.0,30.0,2.6,US-NCSS,Eastern Europe,Europe,Unknown
+-111.278084,24.75188028,0.0,22.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+140.337863,-37.04754782,20.0,30.0,1.7,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-101.1277771,43.5611115,20.0,38.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-79.03888889,-0.416666667,25.0,57.0,0.1,WD-WISE,South America,South America,Unknown
+-106.5418231,31.61757118,25.0,46.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-75.5393906,37.8690186,8.0,25.0,0.0,US-NCSS,Northern America,Northern America,Unknown
+-95.65702442,17.34621653,25.0,39.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+140.3759395,-36.97077238,10.0,30.0,0.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+140.4292066,-35.40373678,16.0,30.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-113.2490036,27.83064804,5.0,29.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-100.5626867,17.16403006,25.0,47.0,0.5,MX-INEGI,Central America,Northern America,Unknown
+-103.1261111,46.955,15.0,20.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+38.116667,-1.631111,24.0,45.0,0.1,AF-AfSP,Eastern Africa,Africa,Unknown
+10.320278,6.406389,0.0,32.0,0.1,WD-WISE,Middle Africa,Africa,Unknown
+140.428589,-36.54725792,10.0,25.0,1.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-104.4516678,32.0361099,5.0,36.0,2.3,US-NCSS,Northern America,Northern America,Unknown
+-98.1050034,45.7630539,15.0,33.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+140.0276972,-35.07192007,13.0,31.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-104.0523834,25.31915433,12.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-111.7783957,25.03114339,15.0,25.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-92.5256271,30.1258888,0.0,23.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-114.4827805,36.6169434,18.0,41.0,1.1,US-NCSS,Northern America,Northern America,Unknown
+-97.6437655,48.4488232,0.0,30.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-109.2392737,26.93099157,6.0,32.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+13.947643,12.423508,18.0,45.0,0.8,AF-AfSP,Western Africa,Africa,Unknown
+-102.4377747,42.2538872,15.0,25.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-108.7713852,34.4602776,19.0,39.0,1.6,US-NCSS,Northern America,Northern America,Unknown
+-100.5412216,37.8573608,10.0,33.0,3.4,US-NCSS,Northern America,Northern America,Unknown
+-115.1889191,36.174221,23.0,33.0,9.6,US-NCSS,Northern America,Northern America,Unknown
+-114.6079491,31.8471322,0.0,32.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+18.433333,6.183333,15.0,40.0,0.0,WD-WISE,Middle Africa,Africa,Unknown
+-119.8249969,36.2916679,10.0,25.0,2.4,US-NCSS,Northern America,Northern America,Unknown
+140.594418,-35.24826821,9.0,20.0,5.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+9.633333,4.633333,20.0,34.0,0.1,AF-AfSP,Middle Africa,Africa,Unknown
+-115.6543884,46.0904045,21.0,48.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+10.61999989,36.63999939,0.0,30.0,1.5,TN-SOTER,Northern Africa,Africa,Unknown
+146.0243715,-23.2287058,3.0,55.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+100.4333333,-0.4,0.0,30.0,0.1,WD-WISE,South-Eastern Asia,Asia,Unknown
+-111.4999076,31.31003314,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+101.7175,6.411666667,21.0,57.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+15.0,-11.0,11.0,25.0,0.0,AF-AfSP,Middle Africa,Africa,Unknown
+-117.6040039,40.0451813,17.0,34.0,4.4,US-NCSS,Northern America,Northern America,Unknown
+-112.1396866,40.6002159,25.0,41.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+145.5524342,-22.6858706,5.0,35.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-99.9883347,41.8113899,13.0,25.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-101.0979417,43.5958611,12.0,34.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-107.79673,38.3404961,0.0,23.0,2.0,US-NCSS,Northern America,Northern America,Unknown
+-100.186944,17.4460178,0.0,37.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-112.0077744,38.8274994,0.0,20.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-119.6980591,38.9436111,13.0,21.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-100.6526413,38.300499,23.0,32.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-108.0261247,31.1585166,14.0,32.0,17.5,MX-INEGI,Central America,Northern America,Unknown
+-112.2013855,37.0438881,10.0,26.0,2.5,US-NCSS,Northern America,Northern America,Unknown
+13.737299,12.4033,17.0,50.0,0.4,AF-AfSP,Western Africa,Africa,Unknown
+-106.864054,30.57358413,25.0,64.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-105.8455339,23.49272783,15.0,65.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+73.92533112,44.53583145,0.0,25.0,0.3338,KZ-SMSD,Central Asia,Asia,Unknown
+-95.1658325,35.1091652,17.0,31.0,1.5,US-NCSS,Northern America,Northern America,Unknown
+-102.0397263,48.83719254,13.0,25.0,1.5,US-NCSS,Northern America,Northern America,Unknown
+-99.84413647,27.63619705,0.0,25.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-97.4022222,46.4372222,6.0,24.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-115.5022202,46.5083351,5.0,33.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-107.6425944,30.04043113,23.0,34.0,2.5,MX-INEGI,Central America,Northern America,Unknown
+30.40305519,-1.671110988,20.0,35.0,0.7,US-NCSS,Eastern Africa,Africa,Unknown
+19.66666667,53.98333333,0.0,25.0,0.2,WD-WISE,Eastern Europe,Europe,Unknown
+-101.9700051,21.93901455,0.0,24.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-89.94447505,18.5463785,0.0,35.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+139.3811329,-35.04562787,10.0,35.0,0.7,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-104.4017528,45.2566111,20.0,43.0,7.1,US-NCSS,Northern America,Northern America,Unknown
+-111.1883028,30.12400752,16.0,40.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+15.90939999,-17.89529991,0.0,20.0,1.7,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-107.9453964,40.5199661,13.0,28.0,3.9,WD-WISE,Northern America,Northern America,Unknown
+9.460000038,37.04000092,0.0,20.0,1.3,TN-SOTER,Northern Africa,Africa,Unknown
+-100.2741457,24.8899843,20.0,39.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+140.8784379,-36.70327131,12.0,30.0,0.7,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-97.64268033,16.81485099,0.0,29.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+24.1,58.45,0.0,200.0,0.0,EU-SOTER,Northern Europe,Europe,Unknown
+-97.3551407,28.4565563,15.0,30.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-113.8233337,45.125,12.0,28.0,2.3,US-NCSS,Northern America,Northern America,Unknown
+-94.13540592,17.2183898,15.0,48.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-108.397887,25.92861413,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+18.566667,6.85,11.0,43.0,0.0,WD-WISE,Middle Africa,Africa,Unknown
+-87.48106227,20.0446863,19.0,28.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+17.88260078,-19.36700058,19.0,49.0,4.5,NA-NAMSOTER,Southern Africa,Africa,Unknown
+15.65250015,-17.77939987,26.0,33.0,10.0,NA-NAMSOTER,Southern Africa,Africa,Unknown
+13.861831,12.213946,0.0,20.0,1.7,AF-AfSP,Western Africa,Africa,Unknown
+-107.8781953,28.72188236,14.0,30.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-111.1191635,43.8719444,16.0,25.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-111.3397819,30.38929139,0.0,28.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-98.2041702,43.5272217,18.0,23.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+16.59059906,-19.76309967,13.0,60.0,2.0,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-95.4903414,17.59965037,9.0,35.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-104.5591768,21.40767655,17.0,40.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-88.53971044,20.21826547,16.0,42.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-69.14777778,-12.68861111,10.0,25.0,0.1,WD-WISE,South America,South America,Unknown
+-97.79066467,47.0944252,15.0,20.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-98.78441293,20.69606556,17.0,57.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+115.838631,-33.140489,10.0,20.0,3.9,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+17.5,48.41666667,0.0,35.0,0.1,WD-WISE,Eastern Europe,Europe,Unknown
+140.4297457,-35.37565227,11.0,20.0,0.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+101.3222222,1.941666667,16.0,33.0,8.9,WD-WISE,South-Eastern Asia,Asia,Unknown
+20.21570015,-17.91410065,20.0,80.0,51.9,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-97.4728775,47.13470459,15.0,30.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-104.1294479,34.1944427,8.0,20.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+35.011111,-4.666667,0.0,20.0,0.3,WD-WISE,Eastern Africa,Africa,Unknown
+-120.1172256,35.6008339,12.0,35.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+138.6009299,-33.81652449,15.0,35.0,0.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-100.6686932,24.5854759,18.0,47.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-98.15933487,20.05439034,19.0,41.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-108.1222706,38.6990731,6.0,32.0,16.9,US-NCSS,Northern America,Northern America,Unknown
+-113.0912108,31.95603348,0.0,20.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-95.7986145,45.6811104,0.0,20.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-116.2901382,43.7468224,10.0,25.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-117.807373,41.6415482,0.0,20.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+13.689573,12.454672,0.0,33.0,0.8,AF-AfSP,Western Africa,Africa,Unknown
+-118.4555556,40.1577778,3.0,20.0,1.7,US-NCSS,Northern America,Northern America,Unknown
+-114.6030946,27.76265855,18.0,43.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-111.4522247,39.333889,15.0,33.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+44.0,48.2,14.0,30.0,7.5,EU-SOTER,Eastern Europe,Europe,Unknown
+32.5616684,0.41,20.0,37.0,0.0,WD-WISE,Eastern Africa,Africa,Unknown
+44.0,60.9,16.0,26.0,0.0,EU-SOTER,Eastern Europe,Europe,Unknown
+-106.6651382,47.0314445,8.0,23.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+13.861831,12.213946,20.0,48.0,1.8,AF-AfSP,Western Africa,Africa,Unknown
+-112.0397186,41.8811111,0.0,20.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-103.8063889,40.5216675,18.0,28.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+98.95555556,19.12944444,25.0,43.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+74.32593536,47.67431259,0.0,25.0,0.09712,KZ-SMSD,Central Asia,Asia,Unknown
+-96.6325226,37.9614372,13.0,33.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+40.1666679,35.2999992,18.0,42.0,42.1,WD-WISE,Western Asia,Asia,Unknown
+102.0833333,12.5,20.0,50.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+-102.1964278,43.0463528,25.0,36.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-112.2304535,33.8425636,7.0,21.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-57.58333333,-30.41666667,24.0,36.0,0.1,WD-WISE,South America,South America,Unknown
+-117.7736816,35.6074867,8.0,28.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+17.833333,7.766667,18.0,70.0,1.1,WD-WISE,Middle Africa,Africa,Unknown
+128.929027,-15.449447,0.0,20.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-99.70612166,24.25710587,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-117.7261111,40.0444444,16.0,24.0,1.4,US-NCSS,Northern America,Northern America,Unknown
+-120.2547226,44.6722221,18.0,36.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-101.1988907,43.4108315,15.0,28.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-112.4488907,39.0466652,10.0,38.0,1.9,US-NCSS,Northern America,Northern America,Unknown
+-115.5598907,45.7438049,18.0,50.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-104.2602921,42.0171928,15.0,41.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-116.530089,32.41076441,12.0,26.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-106.5046598,31.26802582,25.0,37.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-115.9430542,46.8548317,3.0,25.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-99.00675995,16.61313834,21.0,37.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-100.7941554,22.38066119,18.0,44.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-108.0329367,27.38979792,0.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-111.8000031,41.1577797,20.0,51.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-119.7791672,39.0374985,13.0,38.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-96.0763855,29.4272213,12.0,28.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-100.8590224,17.20727075,10.0,43.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+21.56690025,-18.12310028,20.0,50.0,46.2,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-101.0338261,26.69288352,0.0,31.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-105.306914,24.76227358,0.0,31.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-106.6490962,26.52437273,13.0,25.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-98.02803427,23.26397175,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-100.8443833,23.1187416,26.0,32.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+31.044445,-17.7600002,12.0,19.0,0.1,WD-WISE,Eastern Africa,Africa,Unknown
+-98.0582223,22.02742789,0.0,22.0,0.4,MX-INEGI,Central America,Northern America,Unknown
+109.7333333,1.833333333,10.0,58.0,0.1,WD-WISE,South-Eastern Asia,Asia,Unknown
+-98.3790068,47.9334137,18.0,51.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-106.9073027,25.97405528,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+20.325,42.075,20.0,37.0,0.1,WD-WISE,Southern Europe,Europe,Unknown
+-103.5444412,42.961113,25.0,36.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-109.1801345,25.95175809,15.0,41.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-94.49970398,16.49635113,0.0,20.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+13.957101,12.389973,24.0,33.0,1.1,AF-AfSP,Western Africa,Africa,Unknown
+19.56666667,64.19166667,25.0,40.0,0.1,WD-WISE,Northern Europe,Europe,Unknown
+-93.55235627,15.82317253,24.0,47.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+34.466667,-2.483333,10.0,40.0,0.4,AF-AfSP,Eastern Africa,Africa,Unknown
+-101.2937033,26.45665436,0.0,22.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+13.935736,12.28178,0.0,30.0,0.5,AF-AfSP,Western Africa,Africa,Unknown
+128.906908,-15.426069,0.0,60.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+136.4510833,-33.74694552,20.0,30.0,1.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-104.4668444,20.9531767,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-105.0199241,21.46268072,10.0,25.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+10.331389,6.046389,0.0,20.0,0.1,WD-WISE,Middle Africa,Africa,Unknown
+-105.1912734,19.69088525,20.0,48.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-119.7825012,38.8666649,10.0,43.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-102.7870476,19.96926557,11.0,44.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-111.0775452,48.4360199,15.0,51.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+87.44966125,27.18115997,25.0,50.0,0.1,NP-SOTER,Southern Asia,Asia,Unknown
+-97.0300827,31.0111275,12.0,24.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+17.95789909,-17.66040039,17.0,45.0,15.0,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-98.96432495,47.69136429,23.0,30.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-99.2128372,36.6701317,6.0,30.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-113.1630554,46.5369453,15.0,64.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-103.1692123,48.61996078,15.0,36.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-116.015152,45.5449753,10.0,25.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+13.750236,12.341422,0.0,30.0,0.4,AF-AfSP,Western Africa,Africa,Unknown
+-101.9470825,33.2597771,10.0,27.0,1.8,US-NCSS,Northern America,Northern America,Unknown
+-107.7857716,24.92108669,11.0,46.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+-99.4097595,27.6747665,8.0,36.0,2.8,US-NCSS,Northern America,Northern America,Unknown
+-105.2777004,25.32101657,0.0,26.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+69.09909821,54.74814987,0.0,25.0,0.07570333,KZ-SMSD,Central Asia,Asia,Unknown
+-90.68138092,19.38338119,7.0,37.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-88.7494431,42.9711113,25.0,34.0,1.6,WD-WISE,Northern America,Northern America,Unknown
+23.356873,-12.645496,22.0,47.0,0.1,WD-WISE,Middle Africa,Africa,Unknown
+-113.5602798,45.6549988,20.0,43.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+138.8926004,-34.49389442,12.0,30.0,0.7,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-103.2170944,30.4912415,8.0,38.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-105.9938889,32.8959541,23.0,30.0,5.3,US-NCSS,Northern America,Northern America,Unknown
+-113.2602762,27.23044239,8.0,32.0,50.0,MX-INEGI,Central America,Northern America,Unknown
+-101.1179159,28.5276017,0.0,24.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+16.06940079,-17.9041996,25.0,81.0,1.2,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-58.08333333,-32.75,25.0,38.0,0.1,WD-WISE,South America,South America,Unknown
+-116.2978466,32.52214686,10.0,24.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-102.2193985,43.0635834,18.0,25.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-116.7844444,43.6166667,22.0,41.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-105.1863823,21.09057775,12.0,39.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-107.6684537,27.71600518,7.0,37.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-108.7369653,28.21010274,19.0,50.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-95.50839812,16.43233988,19.0,45.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-100.7737294,17.50745932,10.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+40.1666679,35.2999992,18.0,42.0,42.1,US-NCSS,Western Asia,Asia,Unknown
+-90.2233187,18.67147516,0.0,23.0,4.0,MX-INEGI,Central America,Northern America,Unknown
+-103.6105576,41.1202774,15.0,28.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+26.563333,-23.122222,25.0,80.0,0.1,SAF-SOTER,Southern Africa,Africa,Unknown
+-107.4821718,30.59186792,0.0,20.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-98.87871973,16.6779992,18.0,40.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-105.9196638,23.01060229,9.0,32.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-102.1474411,23.10236032,13.0,31.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-100.8364698,24.4005128,23.0,48.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-116.4595871,43.9459839,13.0,23.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-97.79870814,22.17526685,0.0,23.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-97.79307556,27.34739876,18.0,25.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-97.8248653,37.8535192,0.0,20.0,1.9,US-NCSS,Northern America,Northern America,Unknown
+-98.7525177,28.4712143,13.0,44.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+34.95,0.94,0.0,20.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-108.6932067,26.3734534,25.0,46.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-100.1698807,26.13758263,16.0,42.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-103.8586121,31.4266663,15.0,48.0,2.5,US-NCSS,Northern America,Northern America,Unknown
+35.0,-2.133333,20.0,60.0,1.1,AF-AfSP,Eastern Africa,Africa,Unknown
+-107.5104178,30.58926533,0.0,24.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-101.0608186,20.89282834,6.0,40.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-104.8443992,23.28600211,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.7028435,23.15867756,23.0,55.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+139.012784,-34.90942592,20.0,30.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-101.1136591,21.20484,13.0,38.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+35.1625,-4.448611,10.0,20.0,0.2,AF-AfSP,Eastern Africa,Africa,Unknown
+20.53333333,50.45,0.0,20.0,0.3,WD-WISE,Eastern Europe,Europe,Unknown
+83.19921112,27.68989944,0.0,20.0,0.4,NP-SOTER,Southern Asia,Asia,Unknown
+-107.9919757,31.68124619,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.5559062,22.7077933,0.0,20.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+17.75,6.666667,18.0,55.0,0.1,AF-AfSP,Middle Africa,Africa,Unknown
+138.6711357,-35.20580354,24.0,40.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+39.0,35.9666672,17.0,43.0,4.2,US-NCSS,Western Asia,Asia,Unknown
+-116.4417572,40.495739,8.0,23.0,7.6,US-NCSS,Northern America,Northern America,Unknown
+-117.5025864,37.5332794,10.0,23.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-101.5405579,36.8916664,25.0,46.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-111.9249496,48.30659103,15.0,31.0,0.2,WD-WISE,Northern America,Northern America,Unknown
+-110.1383778,23.40351227,0.0,28.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+128.87009,-15.430652,20.0,140.0,3.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-96.7577744,41.2930565,0.0,20.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-121.1243439,37.43491745,25.0,50.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+27.75,-15.8166666,21.0,43.0,0.0,WD-WISE,Eastern Africa,Africa,Unknown
+-117.0147247,40.7647209,20.0,36.0,1.5,US-NCSS,Northern America,Northern America,Unknown
+-98.63016923,17.38124259,20.0,40.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-111.9705965,29.3524532,17.0,30.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-111.6152802,39.3433342,0.0,25.0,1.5,US-NCSS,Northern America,Northern America,Unknown
+139.5714446,-33.89065938,0.0,20.0,0.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-98.6528873,24.10038678,0.0,28.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-116.9261093,34.4933319,15.0,41.0,50.0,US-NCSS,Northern America,Northern America,Unknown
+-100.3642974,28.11133587,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+138.6405543,-33.98589137,10.0,20.0,0.9,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-103.8946438,20.33863292,10.0,40.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-104.412262,31.614336,7.0,21.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-104.7450027,40.8288879,8.0,24.0,17.3,US-NCSS,Northern America,Northern America,Unknown
+-101.0586091,24.95678694,21.0,36.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-100.9723576,18.90464414,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-104.0745794,25.29609809,17.0,28.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+175.3922466,-40.07837939,23.0,33.0,0.1,WD-WISE,Australia and New Zealand,Oceania,Unknown
+115.769868,-33.350338,10.0,20.0,5.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-95.5543282,17.64540172,7.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-102.6177826,46.96301651,10.0,23.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+29.92,-3.25,20.0,80.0,0.0,CAF-SOTER,Eastern Africa,Africa,Unknown
+-102.8549477,25.72992425,20.0,45.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+34.953,-0.9864,25.0,50.0,0.1,KE-SOTER,Eastern Africa,Africa,Unknown
+-98.2605556,48.9091667,15.0,38.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-48.6875,-19.95444444,23.0,55.0,0.0,WD-WISE,South America,South America,Unknown
+-111.6500015,32.5750008,15.0,28.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+13.811178,12.299701,14.0,38.0,0.3,AF-AfSP,Western Africa,Africa,Unknown
+-113.9060692,28.65766512,12.0,62.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-110.7215761,28.21570723,0.0,24.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+115.857275,-33.033689,20.0,50.0,2.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+140.5659318,-36.169022,13.0,48.0,1.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-109.6360201,28.69784593,10.0,30.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-104.8755174,20.67274388,0.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-87.74628943,21.25038685,0.0,21.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+140.6078922,-35.12290288,25.0,35.0,1.7,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+145.0294384,-21.89331253,3.0,40.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-106.0886078,46.8038902,15.0,30.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-102.0702544,22.52225505,0.0,20.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-97.1108322,47.8630562,0.0,30.0,4.6,US-NCSS,Northern America,Northern America,Unknown
+-112.2505035,44.1599998,2.0,29.0,1.1,US-NCSS,Northern America,Northern America,Unknown
+-108.7546471,26.27968287,9.0,28.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-102.6399994,43.2994461,23.0,32.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-107.1179986,26.24465231,18.0,45.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-104.5801913,29.59233724,21.0,45.0,10.0,MX-INEGI,Central America,Northern America,Unknown
+-71.3916702,44.9749985,0.0,23.0,0.1,WD-WISE,Northern America,Northern America,Unknown
+-106.6651382,47.0314445,23.0,36.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-107.9593891,31.34666112,0.0,22.0,10.0,MX-INEGI,Central America,Northern America,Unknown
+-86.0,12.25,15.0,33.0,0.0,LAC-SOTER,Central America,Northern America,Unknown
+-115.6037521,46.3290825,5.0,31.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-107.8890127,38.6012982,10.0,20.0,26.5,US-NCSS,Northern America,Northern America,Unknown
+13.982855,12.304414,0.0,25.0,1.1,AF-AfSP,Western Africa,Africa,Unknown
+-103.5133157,22.45484056,18.0,25.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-102.0859947,25.17548193,0.0,30.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-103.6213913,42.3572235,20.0,56.0,4.5,US-NCSS,Northern America,Northern America,Unknown
+-102.2337607,22.13256707,0.0,22.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-105.2249985,39.2536125,13.0,28.0,0.1,WD-WISE,Northern America,Northern America,Unknown
+-98.5839887,40.9605591,0.0,23.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+17.93810081,-19.57360077,20.0,65.0,11.8,NA-NAMSOTER,Southern Africa,Africa,Unknown
+15.5,-12.5,18.0,40.0,0.0,AF-AfSP,Middle Africa,Africa,Unknown
+-101.9787216,39.0698891,12.0,26.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+19.6875,40.95083333,19.0,42.0,0.6,US-NCSS,Southern Europe,Europe,Unknown
+-95.9569444,41.1616667,6.0,22.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+37.8914,-0.9955,15.0,40.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+38.708333,-6.755833,20.0,30.0,0.4,WD-WISE,Eastern Africa,Africa,Unknown
+14.9151001,-17.77639961,0.0,25.0,3.3,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-115.5811386,46.3906937,10.0,20.0,2.2,US-NCSS,Northern America,Northern America,Unknown
+-113.3236182,31.72961577,0.0,34.0,20.0,MX-INEGI,Central America,Northern America,Unknown
+138.2550516,-33.60375748,21.0,35.0,6.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-102.3755556,47.3455556,0.0,23.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-103.6619415,34.3461113,10.0,33.0,1.3,US-NCSS,Northern America,Northern America,Unknown
+-99.1130524,37.9863892,12.0,20.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-99.1669464,44.3291664,8.0,25.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+34.25,0.17,15.0,45.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-110.9453201,48.4474106,15.0,33.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-99.04852635,24.52703318,14.0,34.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-99.2242813,34.4063606,0.0,29.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-94.2986145,44.7167511,10.0,28.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-104.9996109,40.6578064,20.0,75.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+3.429722,14.239722,0.0,40.0,0.1,AF-AfSP,Western Africa,Africa,Unknown
+-112.0418269,25.26825933,16.0,35.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-103.5458592,29.05399924,0.0,35.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-114.496109,47.5869446,20.0,36.0,2.4,US-NCSS,Northern America,Northern America,Unknown
+-105.3939375,30.84802005,21.0,34.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-120.8371124,37.2777023,10.0,23.0,1.5,US-NCSS,Northern America,Northern America,Unknown
+-67.09220123,17.98220062,5.0,28.0,0.9,LAC-SOTER,Caribbean,Northern America,Unknown
+-107.8890127,38.6012982,20.0,32.0,27.9,US-NCSS,Northern America,Northern America,Unknown
+-120.7038879,45.2724991,13.0,28.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-103.2219772,47.18245697,23.0,36.0,3.8,US-NCSS,Northern America,Northern America,Unknown
+48.4,52.09972222,10.0,33.0,2.3,EU-SOTER,Eastern Europe,Europe,Unknown
+-105.3826067,23.74703784,20.0,53.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-97.832222,39.8263893,7.0,20.0,2.4,US-NCSS,Northern America,Northern America,Unknown
+-96.5066681,48.5722237,10.0,20.0,2.6,US-NCSS,Northern America,Northern America,Unknown
+-97.25448164,16.8091768,17.0,38.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-97.2801361,36.3774567,4.0,24.0,1.1,US-NCSS,Northern America,Northern America,Unknown
+-114.4833298,36.6077766,10.0,30.0,2.2,US-NCSS,Northern America,Northern America,Unknown
+-111.9622192,32.751667,3.0,20.0,1.4,US-NCSS,Northern America,Northern America,Unknown
+-103.6316681,41.1202774,10.0,28.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-104.375,43.75,10.0,29.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-106.003525,27.64793117,16.0,61.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-109.7787111,29.76419983,0.0,20.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-102.0705643,48.81663513,13.0,25.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-118.0226212,38.7657585,10.0,20.0,1.2,US-NCSS,Northern America,Northern America,Unknown
+-110.6456375,41.4393883,25.0,46.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-101.2958506,21.17187866,10.0,30.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-100.2138482,18.8003025,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.29795,46.8415,25.0,46.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+35.5999985,32.2000008,23.0,40.0,1.4,US-NCSS,Western Asia,Asia,Unknown
+-109.9485304,28.11148212,0.0,20.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-109.6807626,30.35942212,0.0,20.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+149.95,-9.65,20.0,30.0,0.1,WD-WISE,Melanesia,Oceania,Unknown
+-113.0613288,27.27356622,20.0,28.0,4.5,MX-INEGI,Central America,Northern America,Unknown
+-98.78644805,18.33844445,0.0,25.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+14.78590012,-17.6678009,10.0,32.0,2.7,NA-NAMSOTER,Southern Africa,Africa,Unknown
+33.51861,-24.80528,20.0,45.0,0.5,SAF-SOTER,Eastern Africa,Africa,Unknown
+-105.3826067,23.74703784,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+128.915423,-15.434489,0.0,30.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-171.5825043,-13.9991665,7.0,20.0,0.1,WD-WISE,Polynesia,Oceania,Unknown
+-98.212532,39.6834984,25.0,40.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-102.6909862,28.46816895,10.0,33.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+128.915383,-15.464658,0.0,60.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+101.5,14.75,12.0,53.0,0.1,WD-WISE,South-Eastern Asia,Asia,Unknown
+-101.0092798,20.19921987,20.0,53.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-87.35457324,21.31787442,0.0,23.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-111.8787537,41.6436119,23.0,43.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-113.4979646,27.0762726,10.0,21.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-104.9777756,42.2233315,9.0,20.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-93.5,47.5,18.0,55.0,1.5,US-NCSS,Northern America,Northern America,Unknown
+-102.246666,38.0919456,23.0,46.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+37.583889,6.087778,0.0,46.0,0.1,AF-AfSP,Eastern Africa,Africa,Unknown
+-101.867836,33.1702766,0.0,23.0,1.3,US-NCSS,Northern America,Northern America,Unknown
+-120.4561081,41.5638885,25.0,56.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-102.2228389,43.9742611,7.0,37.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-89.46636958,18.70488555,17.0,31.0,2.3,MX-INEGI,Central America,Northern America,Unknown
+123.3874969,10.4916668,0.0,24.0,0.6,US-NCSS,South-Eastern Asia,Asia,Unknown
+-75.19972222,20.2,0.0,20.0,0.2,CU-SOTER,Caribbean,Northern America,Unknown
+-102.8899994,46.1413879,23.0,46.0,2.8,WD-WISE,Northern America,Northern America,Unknown
+-103.7199089,19.83546312,18.0,37.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+140.3900196,-36.95628738,10.0,22.0,0.9,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-92.74049831,17.94429165,13.0,30.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-102.8552666,21.25307811,16.0,29.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+99.95972222,20.18777778,17.0,54.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+13.725738,12.37698,20.0,45.0,1.0,AF-AfSP,Western Africa,Africa,Unknown
+-105.709055,30.22586489,13.0,35.0,1.7,MX-INEGI,Central America,Northern America,Unknown
+-118.8744659,48.11872864,0.0,23.0,1.3,US-NCSS,Northern America,Northern America,Unknown
+-118.1032778,33.8454722,22.0,37.0,2.4,US-NCSS,Northern America,Northern America,Unknown
+26.95667,-28.46,0.0,20.0,1.6,ZA-SOTER,Southern Africa,Africa,Unknown
+39.836591,8.951874,0.0,23.0,0.1,AF-AfSP,Eastern Africa,Africa,Unknown
+123.0291672,11.1972218,15.0,52.0,0.1,WD-WISE,South-Eastern Asia,Asia,Unknown
+-98.79305603,25.07495837,18.0,31.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-104.5712444,24.2629254,12.0,40.0,0.6,MX-INEGI,Central America,Northern America,Unknown
+-76.87000275,-6.070000172,25.0,55.0,0.7,LAC-SOTER,South America,South America,Unknown
+-102.6391667,46.8911111,8.0,20.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-97.5404209,48.2408408,0.0,30.0,1.4,US-NCSS,Northern America,Northern America,Unknown
+-104.1366272,40.4941406,20.0,38.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-107.9690277,29.3571983,11.0,45.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-103.4733353,41.0480537,15.0,25.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-113.0875015,37.314724,23.0,42.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-100.5500031,30.2902775,15.0,23.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+102.8333333,16.48333333,15.0,40.0,0.1,WD-WISE,South-Eastern Asia,Asia,Unknown
+-104.2661133,43.0452766,20.0,38.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-47.7166672,-15.5972223,10.0,35.0,0.0,WD-WISE,South America,South America,Unknown
+-107.9730301,38.6642761,8.0,28.0,10.2,US-NCSS,Northern America,Northern America,Unknown
+-56.41666667,-31.08333333,0.0,23.0,0.1,WD-WISE,South America,South America,Unknown
+-116.0088561,30.65495186,17.0,49.0,6.5,MX-INEGI,Central America,Northern America,Unknown
+-99.45719532,16.73488091,14.0,42.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.3984722,38.7236111,23.0,47.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-112.0551687,25.01232757,14.0,19.0,3.5,MX-INEGI,Central America,Northern America,Unknown
+-118.398613,40.8327789,10.0,25.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-113.6722402,26.88847174,0.0,32.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-96.5066681,48.5722237,20.0,44.0,1.7,US-NCSS,Northern America,Northern America,Unknown
+18.5206,-19.6374,18.0,56.0,6.6,SAF-SOTER,Southern Africa,Africa,Unknown
+23.00861111,62.19583333,15.0,25.0,0.1,WD-WISE,Northern Europe,Europe,Unknown
+-107.7418544,28.87591517,19.0,42.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+26.5452785,-23.1180553,6.0,20.0,1.2,US-NCSS,Southern Africa,Africa,Unknown
+-102.2312222,38.0888611,25.0,48.0,1.4,US-NCSS,Northern America,Northern America,Unknown
+26.8,-23.066667,0.0,21.0,0.1,WD-WISE,Southern Africa,Africa,Unknown
+-112.9558334,42.0283318,15.0,30.0,19.5,US-NCSS,Northern America,Northern America,Unknown
+-106.8786729,28.60192802,10.0,40.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-113.0485687,37.7194214,8.0,23.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-118.9199982,43.1138878,7.0,23.0,2.2,US-NCSS,Northern America,Northern America,Unknown
+-98.0235242,47.9212927,15.0,30.0,16.1,US-NCSS,Northern America,Northern America,Unknown
+28.066667,-13.6,7.0,24.0,0.0,WD-WISE,Eastern Africa,Africa,Unknown
+26.55333,-27.17,25.0,65.0,0.1,WD-WISE,Southern Africa,Africa,Unknown
+-115.5719481,30.04033652,0.0,22.0,3.5,MX-INEGI,Central America,Northern America,Unknown
+-97.05439,31.0075836,13.0,43.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-96.79676341,18.09751549,12.0,44.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-96.7564697,28.7199993,0.0,21.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-108.8235258,30.64219478,0.0,26.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-114.956459,42.2421227,10.0,20.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-113.2431282,28.62988049,12.0,25.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-108.2020645,39.7849731,13.0,28.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+27.29667,-24.36667,0.0,28.0,3.9,SAF-SOTER,Southern Africa,Africa,Unknown
+-116.1135559,45.6940575,6.0,24.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-104.5173806,20.55822193,23.0,42.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-115.8905258,45.8362122,18.0,42.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-93.58801088,16.3698444,13.0,29.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-72.56666667,2.6,12.0,19.0,0.2,LAC-SOTER,South America,South America,Unknown
+-95.0594406,41.601944,15.0,28.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-111.2716675,42.1961098,5.0,28.0,1.4,US-NCSS,Northern America,Northern America,Unknown
+-103.4169969,22.31891063,18.0,35.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+31.5499992,-21.083334,0.0,24.0,0.5,WD-WISE,Eastern Africa,Africa,Unknown
+-103.4670307,22.81196579,20.0,40.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-104.1488876,41.9286118,13.0,28.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-104.9054257,23.71610336,0.0,47.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-113.6960983,38.4891243,8.0,25.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-121.6966629,37.6624985,23.0,53.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-98.3974686,38.1698608,10.0,23.0,7.7,US-NCSS,Northern America,Northern America,Unknown
+-110.838613,24.64819394,0.0,32.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-103.6989943,22.21671554,15.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+35.33333,-4.616667,0.0,20.0,0.4,AF-AfSP,Eastern Africa,Africa,Unknown
+39.87972,-14.26472,20.0,50.0,0.4,SAF-SOTER,Eastern Africa,Africa,Unknown
+139.2979093,-34.34796545,16.0,29.0,5.8,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-117.5304031,41.3690643,22.0,37.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+138.7147278,-34.00487374,14.0,35.0,2.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-72.56666667,2.6,19.0,43.0,0.1,WD-WISE,South America,South America,Unknown
+13.980098,12.290113,22.0,63.0,0.7,AF-AfSP,Western Africa,Africa,Unknown
+-89.51682327,19.96320066,0.0,32.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+13.666546,12.483171,0.0,44.0,0.9,AF-AfSP,Western Africa,Africa,Unknown
+-116.0826111,45.7700539,5.0,55.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-97.76457468,25.88338983,25.0,37.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-102.0603054,22.82503037,0.0,33.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+138.5253812,-32.65323509,15.0,40.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-98.17644245,23.9565607,0.0,21.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-47.7194443,-15.5916672,18.0,30.0,0.1,WD-WISE,South America,South America,Unknown
+-113.7818096,27.8187604,0.0,34.0,2.5,MX-INEGI,Central America,Northern America,Unknown
+37.05,0.4,0.0,23.0,0.1,KE-SOTER,Eastern Africa,Africa,Unknown
+99.7825,7.094722222,17.0,30.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+-93.5367571,43.0283746,13.0,25.0,0.1,WD-WISE,Northern America,Northern America,Unknown
+-106.3066667,32.8708889,10.0,32.0,57.2,US-NCSS,Northern America,Northern America,Unknown
+-111.7094672,28.97564338,17.0,40.0,3.0,MX-INEGI,Central America,Northern America,Unknown
+-114.6664202,30.25404099,0.0,52.0,7.5,MX-INEGI,Central America,Northern America,Unknown
+-102.4175,47.3416667,20.0,41.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+30.416667,-29.616667,20.0,46.0,0.1,WD-WISE,Southern Africa,Africa,Unknown
+-115.9932335,30.54143373,0.0,27.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+34.5,-0.751389,25.0,50.0,0.1,WD-WISE,Eastern Africa,Africa,Unknown
+-114.8600126,32.58197781,15.0,43.0,4.0,MX-INEGI,Central America,Northern America,Unknown
+128.879187,-15.430259,20.0,140.0,5.7,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-97.87496859,25.73668994,0.0,28.0,5.0,MX-INEGI,Central America,Northern America,Unknown
+-111.7980576,48.6191673,23.0,61.0,0.6,WD-WISE,Northern America,Northern America,Unknown
+-97.1132717,47.8624314,0.0,33.0,2.8,US-NCSS,Northern America,Northern America,Unknown
+-99.8922195,33.9419441,13.0,38.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-97.84,46.2686111,20.0,30.0,3.7,US-NCSS,Northern America,Northern America,Unknown
+-113.4696503,32.9850807,25.0,43.0,41.0,US-NCSS,Northern America,Northern America,Unknown
+-110.7044449,47.6763878,15.0,51.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-57.61666667,5.75,18.0,60.0,0.1,WD-WISE,South America,South America,Unknown
+24.0,49.91972222,0.0,28.0,0.0,EU-SOTER,Eastern Europe,Europe,Unknown
+-97.6972198,36.8088875,23.0,53.0,2.3,US-NCSS,Northern America,Northern America,Unknown
+-87.3225021,31.4922218,20.0,41.0,0.0,WD-WISE,Northern America,Northern America,Unknown
+-101.2515181,24.68250664,13.0,39.0,3.2,MX-INEGI,Central America,Northern America,Unknown
+35.283333,-4.616667,14.0,40.0,7.2,AF-AfSP,Eastern Africa,Africa,Unknown
+-112.6943271,30.16550249,0.0,40.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+140.5062294,-36.18033061,13.0,20.0,0.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+56.7083321,24.1499996,10.0,23.0,3.5,US-NCSS,Western Asia,Asia,Unknown
+-115.4427185,46.0550842,17.0,31.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-109.5515276,23.29340567,0.0,22.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-99.3230591,44.0416679,8.0,25.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-97.93948735,22.90525859,19.0,49.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-91.09437231,19.04477445,12.0,22.0,1.1,MX-INEGI,Central America,Northern America,Unknown
+-117.1991653,33.7727776,15.0,25.0,7.0,US-NCSS,Northern America,Northern America,Unknown
+-106.1550145,29.11481673,0.0,25.0,2.5,MX-INEGI,Central America,Northern America,Unknown
+17.9192009,-19.70639992,0.0,21.0,4.4,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-98.43619329,18.86818321,0.0,26.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-98.9352798,37.9599991,15.0,30.0,11.4,US-NCSS,Northern America,Northern America,Unknown
+-104.4125744,21.69675904,19.0,29.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-119.5009232,33.25003052,13.0,28.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+145.3749959,-22.38985269,5.0,60.0,11.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-112.1391318,30.23600142,20.0,32.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-99.48980245,24.94245217,0.0,20.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-79.3649979,35.3800011,15.0,25.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+-102.757098,28.87926115,0.0,34.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-95.77833928,16.19283632,13.0,45.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-114.5872192,34.9336128,23.0,48.0,7.6,US-NCSS,Northern America,Northern America,Unknown
+116.910724,-30.576298,22.0,38.0,0.8,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-104.4616699,32.0186119,23.0,38.0,2.4,US-NCSS,Northern America,Northern America,Unknown
+-117.8305588,40.7019463,13.0,28.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-109.230779,26.71174236,9.0,27.0,0.8,MX-INEGI,Central America,Northern America,Unknown
+-97.8244553,39.6136131,10.0,34.0,6.5,US-NCSS,Northern America,Northern America,Unknown
+124.8125,10.6875,5.0,20.0,0.1,WD-WISE,South-Eastern Asia,Asia,Unknown
+-107.5502481,30.52317588,14.0,54.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-105.5027771,32.8608322,5.0,33.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+146.2605211,-22.08796845,0.0,85.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-122.0647222,39.2097222,11.0,25.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-101.3062795,21.07677423,12.0,46.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+87.25638889,24.29583333,13.0,24.0,0.1,WD-WISE,Southern Asia,Asia,Unknown
+-111.1690826,43.6526108,18.0,31.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-91.6393814,41.6067047,0.0,20.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-98.75015529,25.5423949,7.0,28.0,2.2,MX-INEGI,Central America,Northern America,Unknown
+-105.5646326,30.69195421,14.0,46.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-107.1796689,29.65754234,10.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-101.2005556,47.4588889,18.0,30.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-103.0617837,26.08005664,22.0,60.0,2.7,MX-INEGI,Central America,Northern America,Unknown
+-100.8734183,21.42641233,18.0,48.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+113.659086,-24.840004,5.0,20.0,33.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-97.48333936,25.69940161,0.0,20.0,8.0,MX-INEGI,Central America,Northern America,Unknown
+-117.6453476,35.7466507,8.0,20.0,4.5,US-NCSS,Northern America,Northern America,Unknown
+-118.5211111,40.0283333,18.0,32.0,3.0,US-NCSS,Northern America,Northern America,Unknown
+-99.3573303,48.2378044,19.0,34.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-94.5415802,29.7329731,0.0,25.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-97.6747222,46.1555556,15.0,28.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-91.38594528,16.83186889,0.0,24.0,0.6,MX-INEGI,Central America,Northern America,Unknown
+138.0729843,-34.0179523,10.0,35.0,0.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-112.1927837,30.66188732,0.0,28.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-95.80661803,18.34593788,0.0,24.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+145.3666667,-6.033333333,0.0,28.0,0.1,WD-WISE,Melanesia,Oceania,Unknown
+34.37,0.3,15.0,30.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-103.6635236,28.83896345,0.0,23.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-88.61534293,18.81105265,12.0,55.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+-103.1770149,26.64419481,0.0,30.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-104.6511078,47.6930542,23.0,50.0,0.7,WD-WISE,Northern America,Northern America,Unknown
+-105.2283325,43.5341682,18.0,30.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-103.3010258,21.83672267,20.0,32.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-86.48333333,11.85,0.0,42.0,0.1,WD-WISE,Central America,Northern America,Unknown
+-95.42635451,18.51001776,20.0,42.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+86.3572464,27.57107925,8.0,30.0,0.1,NP-SOTER,Southern Asia,Asia,Unknown
+-115.0980983,32.04044801,11.0,31.0,50.0,MX-INEGI,Central America,Northern America,Unknown
+16.15277778,39.20416667,8.0,35.0,0.0,WD-WISE,Southern Europe,Europe,Unknown
+-102.6951174,23.12779928,23.0,39.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+139.012784,-34.90942592,10.0,20.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+138.1938436,-33.6141031,9.0,22.0,0.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-76.44999695,-2.819999933,15.0,35.0,0.1,LAC-SOTER,South America,South America,Unknown
+-108.397887,25.92861413,25.0,47.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+25.78,58.52,0.0,200.0,0.0,EU-SOTER,Northern Europe,Europe,Unknown
+-98.63016923,17.38124259,0.0,20.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-112.7102814,39.4163895,20.0,56.0,6.3,US-NCSS,Northern America,Northern America,Unknown
+-101.0370316,22.93593961,14.0,46.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-97.1937201,48.2926669,0.0,30.0,3.6,US-NCSS,Northern America,Northern America,Unknown
+-113.3344445,27.30870397,6.0,32.0,0.6,MX-INEGI,Central America,Northern America,Unknown
+-111.278084,24.75188028,22.0,45.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+140.122625,-35.77773992,13.0,28.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-95.99007359,17.19011411,10.0,27.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+139.0208314,-34.893329,25.0,45.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-102.5474252,24.21150408,0.0,22.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+13.957035,12.40784,16.0,52.0,1.1,AF-AfSP,Western Africa,Africa,Unknown
+37.52,2.43,12.0,35.0,0.1,KE-SOTER,Eastern Africa,Africa,Unknown
+-73.0420111,42.508375,12.0,27.0,0.1,US-NCSS,Northern America,Northern America,Unknown
+36.05,4.845,5.0,45.0,2.3,AF-AfSP,Eastern Africa,Africa,Unknown
+-108.3268662,25.40324949,0.0,28.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+25.87972222,52.65,5.0,35.0,0.0,EU-SOTER,Eastern Europe,Europe,Unknown
+-97.47315979,47.1335907,15.0,30.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-103.9777756,45.3444443,17.0,38.0,1.9,US-NCSS,Northern America,Northern America,Unknown
+-111.7777786,42.4733315,23.0,28.0,7.5,US-NCSS,Northern America,Northern America,Unknown
+-103.6166687,31.25,0.0,30.0,4.7,US-NCSS,Northern America,Northern America,Unknown
+-112.7122192,42.0027771,15.0,31.0,1.9,US-NCSS,Northern America,Northern America,Unknown
+-90.3006034,18.84030422,0.0,27.0,0.4,MX-INEGI,Central America,Northern America,Unknown
+-122.0475006,38.7811127,0.0,20.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-101.6402873,22.70910639,18.0,41.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-114.4455566,36.5741653,8.0,43.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-99.88696448,22.66737474,8.0,30.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-102.3627777,42.2324982,12.0,23.0,1.3,US-NCSS,Northern America,Northern America,Unknown
+-102.9876519,21.81113714,20.0,55.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-109.5622253,31.4775009,13.0,25.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-112.6353888,29.85657605,0.0,27.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+101.8891667,14.29444444,0.0,22.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+-110.1022186,46.5216675,9.0,38.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+35.208333,-4.547222,0.0,20.0,0.2,WD-WISE,Eastern Africa,Africa,Unknown
+38.799167,-6.778333,15.0,25.0,0.0,WD-WISE,Eastern Africa,Africa,Unknown
+-121.6932526,37.9299049,16.0,46.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+116.9166667,28.21666667,8.0,22.0,0.0,WD-WISE,Eastern Asia,Asia,Unknown
+-97.309166,31.0049992,0.0,38.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+17.7617,-17.4675,0.0,21.0,2.0,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-97.75209742,25.53872252,17.0,45.0,7.5,MX-INEGI,Central America,Northern America,Unknown
+19.08333333,47.5,10.0,30.0,0.4,WD-WISE,Eastern Europe,Europe,Unknown
+36.3499985,31.8999996,21.0,36.0,0.8,US-NCSS,Western Asia,Asia,Unknown
+-75.5462875,37.9050293,0.0,30.0,0.0,US-NCSS,Northern America,Northern America,Unknown
+85.39330292,27.68606949,25.0,80.0,0.1,NP-SOTER,Southern Asia,Asia,Unknown
+144.85,-35.35,21.0,36.0,3.6,WD-WISE,Australia and New Zealand,Oceania,Unknown
+-105.6986457,25.03263097,0.0,29.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+38.29972222,45.4,7.0,23.0,19.6,EU-SOTER,Eastern Europe,Europe,Unknown
+47.5,45.5,16.0,32.0,4.2,EU-SOTER,Eastern Europe,Europe,Unknown
+-97.80544918,23.04461187,22.0,63.0,4.0,MX-INEGI,Central America,Northern America,Unknown
+36.6666679,31.666666,0.0,22.0,1.3,US-NCSS,Western Asia,Asia,Unknown
+115.76805,-33.349734,10.0,20.0,2.5,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+40.166667,9.016667,10.0,27.0,0.4,AF-AfSP,Eastern Africa,Africa,Unknown
+144.8065528,-20.72193919,5.0,55.0,0.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-97.79082952,17.9471642,13.0,43.0,2.4,MX-INEGI,Central America,Northern America,Unknown
+145.3667574,-22.03482413,12.0,23.0,0.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-99.21096298,18.98956577,0.0,26.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+32.20778,-26.30972,20.0,80.0,0.3,SAF-SOTER,Eastern Africa,Africa,Unknown
+140.3739359,-36.9712486,10.0,20.0,1.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-100.943486,24.83956079,0.0,21.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-117.1391678,33.9288902,20.0,58.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-104.1148993,23.78856627,0.0,21.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+28.183333,-13.516667,25.0,68.0,0.0,WD-WISE,Eastern Africa,Africa,Unknown
+-107.8777771,38.3927765,14.0,37.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-100.539435,28.78027239,17.0,45.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-90.27914178,20.68511186,7.0,40.0,7.5,MX-INEGI,Central America,Northern America,Unknown
+-93.83257332,18.07603865,19.0,39.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-109.1660892,27.94896736,0.0,32.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-115.2638496,32.08899719,0.0,30.0,25.0,MX-INEGI,Central America,Northern America,Unknown
+35.583333,13.283333,0.0,30.0,0.1,AF-AfSP,Northern Africa,Africa,Unknown
+138.8012215,-34.07227045,0.0,29.0,0.4,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-112.9150401,27.75152202,7.0,20.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-85.60555556,10.89166667,20.0,40.0,0.0,LAC-SOTER,Central America,Northern America,Unknown
+31.166666,-10.166667,10.0,21.0,0.0,WD-WISE,Eastern Africa,Africa,Unknown
+-103.859787,48.04717636,10.0,30.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-111.727777,25.04293927,18.0,37.0,5.0,MX-INEGI,Central America,Northern America,Unknown
+-113.8742962,28.00842355,17.0,38.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-112.9166641,45.3333321,14.0,27.0,0.8,WD-WISE,Northern America,Northern America,Unknown
+-114.6180573,47.4583321,20.0,38.0,5.2,US-NCSS,Northern America,Northern America,Unknown
+-97.93484051,16.10287285,0.0,23.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-96.94493769,19.39480725,0.0,23.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-97.9866638,27.0,21.0,40.0,0.0,US-NCSS,Northern America,Northern America,Unknown
+24.6,57.09972222,18.0,26.0,0.0,EU-SOTER,Northern Europe,Europe,Unknown
+-98.41045932,21.65239653,0.0,32.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-92.3340683,42.1805649,18.0,28.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-92.5178223,30.1175842,23.0,41.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-99.7666702,31.6130676,19.0,43.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+140.7694659,-35.92182223,19.0,45.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+139.375134,-34.68263849,23.0,38.0,0.6,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+73.74034119,45.32422256,0.0,25.0,0.13613333,KZ-SMSD,Central Asia,Asia,Unknown
+-119.0625444,35.9064278,23.0,38.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-92.8918915,35.7301674,24.0,40.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-104.412262,31.614336,21.0,30.0,2.2,US-NCSS,Northern America,Northern America,Unknown
+-88.41726685,39.20004272,0.0,75.0,1.3,US-NCSS,Northern America,Northern America,Unknown
+-105.6021784,29.25447712,0.0,21.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-99.8191681,43.7019463,8.0,23.0,1.1,US-NCSS,Northern America,Northern America,Unknown
+-103.8550034,40.5094452,18.0,21.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-122.4833298,37.5047226,25.0,58.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-104.3587336,27.10501899,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+73.69956207,44.15450287,0.0,25.0,0.16960001,KZ-SMSD,Central Asia,Asia,Unknown
+-97.67029887,19.27910887,0.0,25.0,4.5,MX-INEGI,Central America,Northern America,Unknown
+106.7666702,48.0588875,12.0,43.0,0.3,WD-WISE,Eastern Asia,Asia,Unknown
+-91.0908356,40.5833321,23.0,33.0,0.1,WD-WISE,Northern America,Northern America,Unknown
+33.633333,13.516667,2.0,70.0,2.2,WD-WISE,Northern Africa,Africa,Unknown
+-106.1658048,25.91331612,11.0,45.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+34.95,0.94,20.0,40.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+19.37972222,52.27,25.0,45.0,0.1,EU-SOTER,Eastern Europe,Europe,Unknown
+-115.0666656,36.1805458,23.0,46.0,34.8,US-NCSS,Northern America,Northern America,Unknown
+-90.22100494,20.24773713,25.0,35.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-104.375,43.75,14.0,30.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-120.9424973,44.2827797,13.0,23.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+101.5213889,6.386944444,19.0,34.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+137.7732826,-33.74736986,22.0,75.0,0.7,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+19.70325089,64.19625092,10.0,20.0,0.1,WD-WISE,Northern Europe,Europe,Unknown
+-106.8741441,30.6002515,23.0,52.0,10.0,MX-INEGI,Central America,Northern America,Unknown
+15.93669987,-17.82559967,12.0,60.0,3.2,NA-NAMSOTER,Southern Africa,Africa,Unknown
+85.34487152,27.71751022,20.0,50.0,0.1,NP-SOTER,Southern Asia,Asia,Unknown
+-103.7031508,22.64765245,0.0,20.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+9.283333,4.166667,12.0,22.0,0.1,AF-AfSP,Middle Africa,Africa,Unknown
+-96.9972229,44.1236115,15.0,28.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+128.857687,-15.440146,0.0,30.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-116.6923752,43.905426,0.0,25.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+101.4777756,-1.8444444,13.0,37.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+-104.2951912,19.94513696,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+2.5375,13.652222,0.0,20.0,0.1,AF-AfSP,Western Africa,Africa,Unknown
+34.066667,12.616667,0.0,30.0,0.8,WD-WISE,Northern Africa,Africa,Unknown
+-107.9467923,38.6102421,10.0,30.0,3.4,US-NCSS,Northern America,Northern America,Unknown
+-100.8889074,21.25296252,10.0,30.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-79.3916702,9.0611115,22.0,40.0,0.1,WD-WISE,Central America,Northern America,Unknown
+123.9944458,10.4333334,16.0,34.0,0.5,WD-WISE,South-Eastern Asia,Asia,Unknown
+-112.8811737,31.671855,20.0,50.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+146.1658117,-22.71894076,13.0,44.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-97.3223114,46.26942444,13.0,23.0,1.4,US-NCSS,Northern America,Northern America,Unknown
+-109.8337025,27.55427878,0.0,23.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+27.12,57.68,0.0,200.0,0.0,EU-SOTER,Northern Europe,Europe,Unknown
+-110.7741581,29.40579311,18.0,38.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+15.9506,-17.4458,8.0,23.0,11.1,SAF-SOTER,Southern Africa,Africa,Unknown
+-111.5041656,39.8144455,20.0,36.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+15.8277998,-17.82670021,20.0,65.0,45.8,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-95.97845836,16.0042197,14.0,44.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-93.38036491,15.70843397,14.0,47.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-104.5500107,31.2715473,8.0,34.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-98.2611084,43.5366669,18.0,28.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+139.6375953,-35.8034246,10.0,23.0,0.2,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-120.4152756,36.6344452,13.0,36.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+-97.2801361,36.3774567,6.0,21.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+75.0,22.7166672,0.0,20.0,0.5,WD-WISE,Southern Asia,Asia,Unknown
+-60.66805556,-33.86388889,13.0,25.0,0.1,WD-WISE,South America,South America,Unknown
+-97.34043547,20.93896086,0.0,30.0,10.0,MX-INEGI,Central America,Northern America,Unknown
+24.12,58.63,0.0,150.0,0.0,EU-SOTER,Northern Europe,Europe,Unknown
+145.6894144,-22.98383235,6.0,40.0,0.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-100.5714264,48.83636856,15.0,30.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-105.754925,24.96721948,0.0,37.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+16.2,-20.883333,10.0,30.0,0.4,WD-WISE,Southern Africa,Africa,Unknown
+-98.7291641,40.8416672,18.0,25.0,1.6,US-NCSS,Northern America,Northern America,Unknown
+-98.0005067,47.9180483,15.0,30.0,3.3,US-NCSS,Northern America,Northern America,Unknown
+-110.3936089,29.0874106,0.0,26.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-49.1333351,-18.666666,12.0,23.0,0.1,WD-WISE,South America,South America,Unknown
+-94.1250353,16.39810134,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-101.1527103,28.03808561,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-107.5427958,27.92996967,0.0,47.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-55.83333333,-33.16666667,24.0,41.0,0.1,WD-WISE,South America,South America,Unknown
+-110.4057668,27.96548463,8.0,26.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-104.0497208,32.1608315,10.0,61.0,1.8,US-NCSS,Northern America,Northern America,Unknown
+-102.5666656,38.2449989,15.0,33.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+9.917499542,36.83388138,0.0,20.0,1.7,WD-WISE,Northern Africa,Africa,Unknown
+138.4563968,-35.34706644,20.0,45.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+16.04360008,-17.52059937,0.0,21.0,3.6,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-100.2671749,17.53191592,15.0,40.0,0.0,MX-INEGI,Central America,Northern America,Unknown
+-115.0147247,47.9013901,23.0,38.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-104.5313822,20.37363572,0.0,21.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+139.4038083,-35.65332871,15.0,32.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-113.6384604,26.82470965,0.0,38.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+-98.7211075,40.8208351,15.0,25.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-112.6311111,33.810276,25.0,48.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-107.371666,35.9827766,18.0,33.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-102.8120195,29.43517408,21.0,50.0,1.1,MX-INEGI,Central America,Northern America,Unknown
+-8.183333333,53.41666667,16.0,20.0,0.0,WD-WISE,Northern Europe,Europe,Unknown
+13.923421,12.35026,20.0,40.0,0.6,AF-AfSP,Western Africa,Africa,Unknown
+-112.7872238,39.9622231,13.0,24.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-98.3060181,16.66130457,0.0,35.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+34.33,0.1,20.0,65.0,0.0,KE-SOTER,Eastern Africa,Africa,Unknown
+-100.0255123,28.00788481,0.0,26.0,3.0,MX-INEGI,Central America,Northern America,Unknown
+140.0902733,-35.41099165,18.0,50.0,0.9,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+145.3217922,-22.6915659,5.0,40.0,1.0,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+146.028457,-24.34835797,0.0,25.0,0.3,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-96.7681274,46.2491493,25.0,41.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+105.8555527,47.8125,10.0,23.0,1.1,US-NCSS,Eastern Asia,Asia,Unknown
+14.234822,12.322196,25.0,70.0,0.3,AF-AfSP,Western Africa,Africa,Unknown
+-116.2494431,47.5633316,13.0,28.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-103.2161111,46.9205556,25.0,33.0,0.6,US-NCSS,Northern America,Northern America,Unknown
+-118.0180588,47.2180557,18.0,33.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+84.36057281,27.69503975,5.0,20.0,0.2,NP-SOTER,Southern Asia,Asia,Unknown
+-101.456247,25.15062021,20.0,45.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-120.5788879,45.2419434,13.0,23.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+-92.5178223,30.1175842,0.0,23.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+73.1500015,33.7000008,0.0,20.0,0.6,US-NCSS,Southern Asia,Asia,Unknown
+-111.8323703,25.35769824,12.0,35.0,5.5,MX-INEGI,Central America,Northern America,Unknown
+-95.93337105,18.37855224,24.0,52.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-97.1483333,48.4216667,0.0,20.0,1.6,US-NCSS,Northern America,Northern America,Unknown
+-104.6457367,29.09968982,16.0,35.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-119.096817,39.5199013,25.0,41.0,2.7,US-NCSS,Northern America,Northern America,Unknown
+-56.0,-31.83333333,0.0,23.0,0.1,WD-WISE,South America,South America,Unknown
+-106.1989266,28.83803135,0.0,25.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-114.832942,30.93501569,0.0,42.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+100.4022222,6.936944444,25.0,37.0,0.0,WD-WISE,South-Eastern Asia,Asia,Unknown
+-110.8075333,48.3646355,25.0,30.0,1.8,US-NCSS,Northern America,Northern America,Unknown
+-113.9895504,26.97948947,0.0,26.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-102.230278,38.0888901,8.0,38.0,0.6,WD-WISE,Northern America,Northern America,Unknown
+-115.3381904,29.61394076,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+81.09266663,28.54006958,20.0,45.0,0.2,NP-SOTER,Southern Asia,Asia,Unknown
+-114.7469152,27.55335157,12.0,21.0,3.0,MX-INEGI,Central America,Northern America,Unknown
+-111.2803537,24.47691644,15.0,32.0,35.0,MX-INEGI,Central America,Northern America,Unknown
+-96.9495239,46.29776,5.0,28.0,1.0,US-NCSS,Northern America,Northern America,Unknown
+34.97,-0.03,16.0,37.0,0.2,KE-SOTER,Eastern Africa,Africa,Unknown
+19.37972222,52.27,0.0,25.0,0.2,EU-SOTER,Eastern Europe,Europe,Unknown
+-104.3584154,27.26482961,0.0,32.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-98.02036876,25.35270683,0.0,24.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-106.3721021,30.97891122,0.0,20.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-107.0472818,26.20670732,22.0,69.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-92.62073076,16.91414687,12.0,23.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-111.7711502,31.45163092,15.0,32.0,3.0,MX-INEGI,Central America,Northern America,Unknown
+-97.93361629,20.14625561,0.0,27.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-117.6286087,35.7172203,22.0,36.0,33.7,US-NCSS,Northern America,Northern America,Unknown
+-94.72555149,16.85497451,0.0,20.0,0.3,MX-INEGI,Central America,Northern America,Unknown
+-92.36327471,16.7617759,0.0,25.0,0.4,MX-INEGI,Central America,Northern America,Unknown
+74.33333333,29.25,15.0,29.0,0.4,WD-WISE,Southern Asia,Asia,Unknown
+-99.34995514,16.7780484,0.0,25.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+32.383333,15.55,12.0,30.0,1.4,WD-WISE,Northern Africa,Africa,Unknown
+138.416342,-33.75869944,13.0,40.0,4.1,AU-CSIRO,Australia and New Zealand,Oceania,Unknown
+-101.7801666,33.533638,15.0,38.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+31.166666,-10.166667,16.0,37.0,0.0,WD-WISE,Eastern Africa,Africa,Unknown
+-97.1138916,47.8611107,0.0,30.0,4.0,US-NCSS,Northern America,Northern America,Unknown
+-113.9831829,28.28313644,9.0,25.0,0.2,MX-INEGI,Central America,Northern America,Unknown
+-93.7777786,48.3797226,16.0,105.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+20.13972222,48.88,15.0,32.0,0.0,EU-SOTER,Eastern Europe,Europe,Unknown
+-99.8274994,33.584446,15.0,58.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-110.3078003,48.4693604,15.0,23.0,1.9,US-NCSS,Northern America,Northern America,Unknown
+39.25,-4.02,0.0,40.0,15.0,KE-SOTER,Eastern Africa,Africa,Unknown
+32.322,-26.142,15.0,60.0,4.9,SAF-SOTER,Eastern Africa,Africa,Unknown
+-109.4919075,26.94640206,0.0,28.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+17.13579941,-19.34110069,20.0,30.0,29.1,NA-NAMSOTER,Southern Africa,Africa,Unknown
+-112.7847464,30.32747719,0.0,20.0,2.3,MX-INEGI,Central America,Northern America,Unknown
+126.7750015,35.0791664,13.0,29.0,0.0,WD-WISE,Eastern Asia,Asia,Unknown
+-94.9369431,37.3961449,16.0,96.0,0.8,US-NCSS,Northern America,Northern America,Unknown
+-100.008867,21.88996494,12.0,24.0,1.5,MX-INEGI,Central America,Northern America,Unknown
+-109.7706935,28.60200252,0.0,21.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-112.6749191,38.2794724,17.0,32.0,0.9,US-NCSS,Northern America,Northern America,Unknown
+-113.6406021,43.3240662,8.0,20.0,0.5,US-NCSS,Northern America,Northern America,Unknown
+-98.7453918,42.2372131,8.0,20.0,6.4,US-NCSS,Northern America,Northern America,Unknown
+45.2,44.09972222,0.0,20.0,2.0,EU-SOTER,Eastern Europe,Europe,Unknown
+-112.9723283,26.61114392,21.0,37.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-111.8602753,32.4700012,10.0,36.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-100.7069473,33.1791649,12.0,36.0,0.4,US-NCSS,Northern America,Northern America,Unknown
+-101.135631,22.07363662,0.0,32.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-102.0205765,19.09061416,20.0,48.0,2.0,MX-INEGI,Central America,Northern America,Unknown
+-98.08595807,17.87397518,18.0,39.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-103.9777756,45.3444443,21.0,39.0,0.5,WD-WISE,Northern America,Northern America,Unknown
+-90.81652081,16.09083065,24.0,34.0,1.0,MX-INEGI,Central America,Northern America,Unknown
+-84.0107269,42.2147331,25.0,28.0,1.1,US-NCSS,Northern America,Northern America,Unknown
+-112.4346085,37.8698883,7.0,21.0,1.8,US-NCSS,Northern America,Northern America,Unknown
+-103.9777756,45.3444443,14.0,22.0,1.2,US-NCSS,Northern America,Northern America,Unknown
+40.342333,-10.506175,14.0,55.0,1.2,AF-AfSP,Eastern Africa,Africa,Unknown
+-119.0619431,35.2547226,15.0,38.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+-53.75,-32.41666667,22.0,35.0,0.1,WD-WISE,South America,South America,Unknown
+-103.5264685,19.53518651,17.0,27.0,0.1,MX-INEGI,Central America,Northern America,Unknown
+-121.2311096,45.5877762,15.0,30.0,0.3,US-NCSS,Northern America,Northern America,Unknown
+36.633333,-1.216667,10.0,30.0,0.1,AF-AfSP,Eastern Africa,Africa,Unknown
+-98.8136139,37.8030548,15.0,32.0,0.2,US-NCSS,Northern America,Northern America,Unknown
+-95.7819138,29.1199837,14.0,36.0,0.7,US-NCSS,Northern America,Northern America,Unknown
+15.0,-13.5,12.0,26.0,0.0,AF-AfSP,Middle Africa,Africa,Unknown
+-97.88711027,21.87481716,0.0,40.0,2.5,MX-INEGI,Central America,Northern America,Unknown

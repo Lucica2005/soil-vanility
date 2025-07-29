@@ -1,0 +1,124 @@
+{
+    "name": "WOSIS_0_15cm",
+    "task_type": "regression",
+    "header": "infer",
+    "column_names": [
+        "X",
+        "Y",
+        "upper_depth",
+        "lower_depth",
+        "value_avg",
+        "dataset_id",
+        "region",
+        "continent",
+        "date"
+    ],
+    "num_col_idx": [
+        0,
+        1,
+        2,
+        3
+    ],
+    "cat_col_idx": [
+        5,
+        6,
+        7,
+        8
+    ],
+    "target_col_idx": [
+        4
+    ],
+    "file_type": "csv",
+    "data_path": "data/WOSIS_0_15cm/WOSIS_0_15cm.csv",
+    "test_path": "data/WOSIS_0_15cm/WOSIS_0_15cm_test.csv",
+    "column_info": {
+        "X": "float",
+        "Y": "float",
+        "upper_depth": "float",
+        "lower_depth": "float",
+        "value_avg": "float",
+        "dataset_id": "str",
+        "region": "str",
+        "continent": "str",
+        "date": "str"
+    },
+    "train_num": 24882,
+    "test_num": 2488,
+    "val_num": 0,
+    "int_col_idx": [
+        2,
+        3
+    ],
+    "int_columns": [
+        "upper_depth",
+        "lower_depth"
+    ],
+    "int_col_idx_wrt_num": [
+        2,
+        3
+    ],
+    "metadata": {
+        "columns": {
+            "0": {
+                "sdtype": "numerical"
+            },
+            "1": {
+                "sdtype": "numerical"
+            },
+            "2": {
+                "sdtype": "numerical"
+            },
+            "3": {
+                "sdtype": "numerical"
+            },
+            "5": {
+                "sdtype": "categorical"
+            },
+            "6": {
+                "sdtype": "categorical"
+            },
+            "7": {
+                "sdtype": "categorical"
+            },
+            "8": {
+                "sdtype": "categorical"
+            },
+            "4": {
+                "sdtype": "numerical"
+            }
+        }
+    },
+    "idx_mapping": {
+        "4": 0,
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "5": 0,
+        "6": 1,
+        "7": 2,
+        "8": 3
+    },
+    "inverse_idx_mapping": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 5,
+        "5": 6,
+        "6": 7,
+        "7": 8,
+        "8": 4
+    },
+    "idx_name_mapping": {
+        "0": "X",
+        "1": "Y",
+        "2": "upper_depth",
+        "3": "lower_depth",
+        "4": "value_avg",
+        "5": "dataset_id",
+        "6": "region",
+        "7": "continent",
+        "8": "date"
+    }
+}

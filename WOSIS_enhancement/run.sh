@@ -1,0 +1,1 @@
+python main_ec_enhanced.py --dataname dataname --mode train --enable_ec_validation --ec_weight 0.3  --exp_name output_name --no_wandb 
